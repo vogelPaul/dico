@@ -194,8 +194,248 @@ export class HomePage {
         exemple:''
       },
       {
-        francais: 'ablution ',
-        lingala: 'bosukoli, bolongoli botutu ',
+        francais: 'abnégation ',
+        lingala: 'bomíkabi',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'aboiement',
+        lingala: 'ligbóma, bogángi bwa mbwá',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abois (être aux -)  ',
+        lingala: '(kozala na -) nkaká ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abolir (supprimer)',
+        lingala: 'koboma (kolongola)',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abolition ',
+        lingala: 'bobomi, bolongoli  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abominable ',
+        lingala: '-a nsomo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abomination  ',
+        lingala: 'nsomo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abominer',
+        lingala: 'koyina, kobóya ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abondamment ',
+        lingala: 'míngi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abondance ',
+        lingala: 'boíké, míngi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abonder ',
+        lingala: 'kotónda, kofúluka ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abonné, ée ',
+        lingala: 'aboné ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abonnement ',
+        lingala: 'abondemá, abonemá ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abonner ',
+        lingala: 'kozwa abondemá ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abord (d’) ',
+        lingala: 'naíno, yambo ya máns¡  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abordable  ',
+        lingala: '-lámu, -a malámu ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'aborder ',
+        lingala: ' kolobisa, kosolisa moto, kolobela, kosola mpÊ¡ ya ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abortif, ive  ',
+        lingala: '-a kosopisa zémi, -a kolongolisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'aboutir ',
+        lingala: 'kosúka, kokóma ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'aboutissement  ',
+        lingala: 'súka, mbuma  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'aboyer  ',
+        lingala: 'kogbóma   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abracadabrant, ante  ',
+        lingala: '-a loléngé, -a ndéngé ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abrégé (en)  ',
+        lingala: 'na likwé, na bokúsé',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abréger',
+        lingala: 'kokúsa, kokáta mokúsé',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abreuver   ',
+        lingala: 'komelisa, konwísa',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abreuvoir ',
+        lingala: 'emeliselo, enwíselo   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abréviation',
+        lingala: 'bokúsé  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abri   ',
+        lingala: 'ebómbelo, ebómamelo,ekímelo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abriter ',
+        lingala: 'súka, mbuma  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abrogation',
+        lingala: 'bobomi, bolongoli ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abroger ',
+        lingala: 'koboma   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abrupt, upte',
+        lingala: '-a botengemi   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abruptement  ',
+        lingala: 'mbálákáká  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abruti, ie  ',
+        lingala: 'zóba, elémá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abrutir ',
+        lingala: 'kokómisa zóba, kozóbisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'absence',
+        lingala: 'kutukúlu  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'absent, ente  ',
+        lingala: 'mokutukúlu  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'absentéïsme  ',
+        lingala: 'bokutukúlu  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'absenter (s’) ',
+        lingala: 'kozánga, kozala te  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'absolu, ue  ',
+        lingala: '-a ntángo na ndelo -a ntángo na ntembe  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'aboutissement  ',
+        lingala: 'súka, mbuma  ',
         // tslint:disable-next-line: max-line-length
         exemple:''
       },
