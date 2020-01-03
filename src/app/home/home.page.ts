@@ -434,8 +434,433 @@ export class HomePage {
         exemple:''
       },
       {
+        francais: 'absolument   ',
+        lingala: 'ntángo na ndelo, ntángo na ntembe ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'absolution  ',
+        lingala: 'bolímbisi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'absolutisme   ',
+        lingala: 'bokonzi ndelo te',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'absorbant, ante  ',
+        lingala: '-a komele mái, emele mái  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'absorber   ',
+        lingala: 'komele, konwá ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'absorption   ',
+        lingala: 'bomeli  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'absoudre  ',
+        lingala: 'kolimbisa   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'absous, oute   ',
+        lingala: 'molimbisami, molímbámí  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abstenir (s’)  ',
+        lingala: 'kotíka, kokila   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abstention   ',
+        lingala: 'boboyi, bokili  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abstentionnisme  ',
+        lingala: 'bobóyi vÔ¡ti tô maponi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abstentionniste   ',
+        lingala: 'mobóyi vÔti   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abstinence  ',
+        lingala: 'ekila, ngizi, mongilo, bomípimi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abstraction   ',
+        lingala: 'súka, mbuma  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'aboutissement  ',
+        lingala: 'bolongoli  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abstraire  ',
+        lingala: 'kotangola   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abstrait, aite  ',
+        lingala: '-a bwányá, -a mayele ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
         francais: 'aboutissement  ',
         lingala: 'súka, mbuma  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'absurde  ',
+        lingala: '(e)-zángá ntina, -a ntína te  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'absurdité ',
+        lingala: 'bozángi ntína  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abus   ',
+        lingala: 'lilei, lizímbi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abuser   ',
+        lingala: 'kolútisa   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abusif, ive   ',
+        lingala: '-a bosáleli mabé  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'abusivement  ',
+        lingala: 'na lokútá, na moíbi, mabé ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acabit (du même -)    ',
+        lingala: 'ndéngé yokÔ   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acacia  ',
+        lingala: 'akasyá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'académicien, enne  ',
+        lingala: 'moí-akademí  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'académie   ',
+        lingala: 'akademí   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acajou   ',
+        lingala: 'mokole, akazú  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acara, accra, akara ou akra  ',
+        lingala: 'mokáté, akala  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acariâtre  ',
+        lingala: '-a nkándánkándá   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acarien  ',
+        lingala: 'liyanzi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acassa ou akassa   ',
+        lingala: 'mokáté mwa masángú, akasa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accablant, ante   ',
+        lingala: '-a kolembisa, -a nsomo, -a mpási, -a koleka ndelo  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accablement   ',
+        lingala: 'monyoko, monyokoli,mondondo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accabler  ',
+        lingala: 'konyokolo, kolekisa, kolembisa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accalmie   ',
+        lingala: 'lilei, lizímbi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'kímyá, bobóto, nye  ',
+        lingala: 'lilei, lizímbi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'aaccaparer   ',
+        lingala: 'kowéla, kopunza, kozwa na nkó  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accapareur, euse  ',
+        lingala: 'mopunzi   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accéder   ',
+        lingala: 'lilei, lizímbi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'kokóma, kokoto, koyíngela  ',
+        lingala: 'lilei, lizímbi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accélérateur  ',
+        lingala: 'etámbwisi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accélérateur, trice  ',
+        lingala: '-a bokólisi mbángu, -a bobakisi mbángu  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accélérer   ',
+        lingala: 'kokólisa mbángo, koléndisa mbángu   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accent    ',
+        lingala: 'elembo,elobeli, mongóngó  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accentuer  ',
+        lingala: 'kotíya elembo na nkomá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acceptable   ',
+        lingala: '-a kondima ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },  {
+        francais: 'acceptation  ',
+        lingala: 'lilei, lizímbi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accepter   ',
+        lingala: 'kondima, kozwa, koyamba',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accès   ',
+        lingala: 'nzelá, nzilá   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accession  ',
+        lingala: 'bokómi, bokoti  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accident    ',
+        lingala: 'likámá, asidá ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accidenté, ée  ',
+        lingala: '-a likámá ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accidentellement  ',
+        lingala: '(-a ) likámá, (-a) asidá ; moílikámá, moí-asidá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acclamation  ',
+        lingala: 'milóló, byelele, nsáko, bokúmisi',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acclamer  ',
+        lingala: 'kokúmisa, kobete maboko kogánga na nsáí  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acclimater  ',
+        lingala: 'komesinisa, komesinya ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accolade ',
+        lingala: 'ekopi, ezingi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accoler  ',
+        lingala: 'kosangisa, kosanginya  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accommodation   ',
+        lingala: 'bokómi, bokÔti  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accommodation   ',
+        lingala: 'bomeseni, bomesenisi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accommoder ',
+        lingala: 'bokómi, bokÔti  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accession  ',
+        lingala: 'koengibinya, kolongibinya,kobongisa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accession  ',
+        lingala: 'bokómi, bokÔti  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accession  ',
+        lingala: 'bokómi, bokÔti  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accession  ',
+        lingala: 'bokómi, bokÔti  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accession  ',
+        lingala: 'bokómi, bokÔti  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accession  ',
+        lingala: 'bokómi, bokÔti  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accession  ',
+        lingala: 'bokómi, bokÔti  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accession  ',
+        lingala: 'bokómi, bokÔti  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accession  ',
+        lingala: 'bokómi, bokÔti  ',
         // tslint:disable-next-line: max-line-length
         exemple:''
       },
