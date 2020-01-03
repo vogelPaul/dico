@@ -1,5 +1,7 @@
 {
   "name": "dico",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
