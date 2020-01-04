@@ -26,7 +26,7 @@ export class HomePage {
         exemple:'Il a abandonné les siens: asundólí biloko bua ye. asundoli ba oyo ya ye',
       },
       {
-        francais: 'abandonner v.tr. laisser, quitter ',
+        francais: 'abandonner ',
         lingala: 'kosundola like. sém. kotíka, kobóya . ',
         exemple:'Il a abandonné les siens: asundólí biloko bua ye. asundoli ba oyo ya ye',
       },
@@ -794,73 +794,841 @@ export class HomePage {
       },
       {
         francais: 'accommodation   ',
-        lingala: 'bokómi, bokÔti  ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      },
-      {
-        francais: 'accommodation   ',
-        lingala: 'bomeseni, bomesenisi  ',
+        lingala: '  bomeseni, bomesenisi  ',
         // tslint:disable-next-line: max-line-length
         exemple:''
       },
       {
         francais: 'accommoder ',
-        lingala: 'bokómi, bokÔti  ',
+        lingala: 'koengibinya, kolongibinya,kobongisa   ',
         // tslint:disable-next-line: max-line-length
         exemple:''
       },
       {
-        francais: 'accession  ',
-        lingala: 'koengibinya, kolongibinya,kobongisa  ',
+        francais: 'accompagnateur, trice  ',
+        lingala: 'mokambi',
         // tslint:disable-next-line: max-line-length
         exemple:''
       },
       {
-        francais: 'accession  ',
-        lingala: 'bokómi, bokÔti  ',
+        francais: 'accompagnement ',
+        lingala: 'bokambi, likambi  ',
         // tslint:disable-next-line: max-line-length
         exemple:''
       },
       {
-        francais: 'accession  ',
-        lingala: 'bokómi, bokÔti  ',
+        francais: 'accompagner   ',
+        lingala: 'kokamba   ',
         // tslint:disable-next-line: max-line-length
         exemple:''
       },
       {
-        francais: 'accession  ',
-        lingala: 'bokómi, bokÔti  ',
+        francais: 'accompli, ie   ',
+        lingala: '(e)kokísámí, (e)bongísámí   ',
         // tslint:disable-next-line: max-line-length
         exemple:''
       },
       {
-        francais: 'accession  ',
-        lingala: 'bokómi, bokÔti  ',
+        francais: 'accomplir   ',
+        lingala: 'kokokisa, kosála, kosílisa  ',
         // tslint:disable-next-line: max-line-length
         exemple:''
       },
       {
-        francais: 'accession  ',
-        lingala: 'bokómi, bokÔti  ',
+        francais: 'accomplissement [ ',
+        lingala: 'bokokisi, bosúkisi, bosílisi  ',
         // tslint:disable-next-line: max-line-length
         exemple:''
       },
       {
-        francais: 'accession  ',
-        lingala: 'bokómi, bokÔti  ',
+        francais: 'accord   ',
+        lingala: 'boyókani, bobémbani  ',
         // tslint:disable-next-line: max-line-length
         exemple:''
       },
       {
-        francais: 'accession  ',
-        lingala: 'bokómi, bokÔti  ',
+        francais: 'accord (d’) ',
+        lingala: 'kondima   ',
         // tslint:disable-next-line: max-line-length
         exemple:''
       },
       {
-        francais: 'accession  ',
-        lingala: 'bokómi, bokÔti  ',
+        francais: 'accordéon  ',
+        lingala: 'lindánda   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accordéoniste ',
+        lingala: 'mobeti-lindánda   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accorder  ',
+        lingala: 'kopésa, kolingisa, kobémbisa,koyókanisa, komípesa ,kobémbinya,kobémbisana   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accoster ',
+        lingala: 'koseme   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accoter  ',
+        lingala: 'koyekemisa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accouchée',
+        lingala: 'mwasí wa bwakélé, bwakéléké,walékélé   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accouchement  ',
+        lingala: 'boboti   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accoucher ',
+        lingala: 'kobota   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accoucheur, euse  ',
+        lingala: 'mobótisi   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accouder (s’) ',
+        lingala: 'koyekeme   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accouplement',
+        lingala: 'bosíbani   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accoupler ',
+        lingala: 'kosíbisa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accourir  ',
+        lingala: 'kokíma   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accoutrement  ',
+        lingala: 'moláto, eláteli  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accoster ',
+        lingala: 'koseme   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accoster ',
+        lingala: 'koseme   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accoster ',
+        lingala: 'koseme   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accoster ',
+        lingala: 'koseme   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accoutrer ',
+        lingala: 'kolátisa na ndéngé ya kosekisa   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accoutumance  ',
+        lingala: 'momeseno, limeseni, limesenyi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accoutumé (à l’) ',
+        lingala: 'bó momeseno, na momeseno  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accra  ',
+        lingala: 'akala   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accréditer ',
+        lingala: 'kondima  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accréditif  ',
+        lingala: 'lokásá-lifúta   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accroc  ',
+        lingala: 'kpokoso,ekánámí  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accrochage ',
+        lingala: 'likanga, libakú ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accrocher',
+        lingala: 'kobáka, kokanga, kokákya   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accroire  ',
+        lingala: 'kobúba, kokósa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accroissement  ',
+        lingala: 'boyíkinyi, boyéi míngi, bokóli  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accroître   ',
+        lingala: 'koyíkinya, kokólisa, koyéisa míngi   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accroupir (s’)',
+        lingala: 'kokusama, kosotama, kosondama  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accueil   ',
+        lingala: 'boyambi, bonkóndé, bonsalá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accueillant, ante  ',
+        lingala: '-a bonsalá, -a bonkóndé,eyamba bapaya ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accueillir   ',
+        lingala: 'koyamba, konyángela   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acculturé, ée  ',
+        lingala: 'mondelendombe   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accumulateur  ',
+        lingala: 'esanginyi lotilíki   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accumulation  ',
+        lingala: 'lisangisi, lisanginyi   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accumuler  ',
+        lingala: 'kosangisa, kosanginya  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accusateur, trice  ',
+        lingala: '-a botúbi, -a bofúndi, -a bokambi, motúbi, mofúndi, mokambi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accusation   ',
+        lingala: 'bofúnfi, botúbi, bokambi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accusé, ée  ',
+        lingala: 'mofúndami, motúbami,mokambemi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'accuser  ',
+        lingala: 'kofúnda, kotúba, kokamba  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acéré, ée  ',
+        lingala: '-pótú, -a míno, -a nsonge ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acétique   ',
+        lingala: '-a mái ma ngai, -a ngai  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'achalandé, ée   ',
+        lingala: '-a biloko ebelé, -a biloko míngi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'achalander ',
+        lingala: 'kotíya biloko, kokotisa biloko  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acharnement   ',
+        lingala: 'móléndé, moléndé, mbamba ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acharner (s’) ',
+        lingala: 'koluka na móléndé, koluka nanzelá ínso, koléndisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'achat   ',
+        lingala: 'esómbeli,ndombá,bosómbi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acheminer  ',
+        lingala: 'komeme, kotínda, koyenda',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acheter ',
+        lingala: 'kosómba   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acheteur, euse   ',
+        lingala: 'mosómbi, kiliyá ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'achèvement  ',
+        lingala: 'bosílisi   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'achoura     ',
+        lingala: 'asúla  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acide ',
+        lingala: 'kobúba, kokósa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'asíde ',
+        lingala: 'kobúba, kokósa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acidifier ',
+        lingala: 'kokomisa ngai tô asíde ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acidité  ',
+        lingala: 'bongai  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acidulé, ée  ',
+        lingala: '-a mwâ ngai  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acier   ',
+        lingala: 'ebendé ekási ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acné  ',
+        lingala: 'akiné ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acolyte',
+        lingala: 'akolíte ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acompte   ',
+        lingala: 'ndámbo, avási  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acoquiner (s’)  ',
+        lingala: 'koyókana  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acquérir ',
+        lingala: 'kozwa, kosómba  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acquiescement   ',
+        lingala: 'bondimi   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acquiescer   ',
+        lingala: 'kondima (mobimba)  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acquis, ise ',
+        lingala: 'lizwi, eleko  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acquisition   ',
+        lingala: 'bosómbi, bozwi   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acquittement  ',
+        lingala: 'bolóngisi, bolóngi   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acte  ',
+        lingala: '1.kofúta,kolóngisa,kokokisa, 2 monkandá, nkomá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'aacteur, trice   ',
+        lingala: 'mosani,mokeli   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'actif, ive',
+        lingala: '-kási   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'action  ',
+        lingala: 'ekela, ekelá   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'actionner   ',
+        lingala: 'kotámbwisa, kopelisa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'activement  ',
+        lingala: 'na mpila, na bolingo, na mpíko  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'activer ',
+        lingala: 'kotámbwisa mbángo, kokólisa mbángo, kokómisa makási  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'activité   ',
+        lingala: 'mosálá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'actualité  ',
+        lingala: 'sango  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'actuel, elle   ',
+        lingala: '-a sika  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'actuellement  ',
+        lingala: 'sikáwa, sikasikáwa, sikóyo, sikasikóyo, bébe, sasaípi,sasépi, na mói mwa lelo  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'acuité ',
+        lingala: 'bopótú, nsÔnge  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'aadage  ',
+        lingala: 'lisɛsɛ  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adaptable  ',
+        lingala: '-a kolongibinya, -kolongobana, -a kokisana  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adaptateur ',
+        lingala: 'elongobinya   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adaptation ',
+        lingala: 'bomɛsɛni, bomɛsɛnisi, bolongibinyi   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'additif, ive  ',
+        lingala: '-a kobakema  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'addition   ',
+        lingala: 'bobakisi   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'additionner  ',
+        lingala: 'kobakisa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adduction  ',
+        lingala: 'bobéndi mai   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adepte   ',
+        lingala: 'mondimi, moyambi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adéquat, ate  ',
+        lingala: '-a kolongobana  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adéquation ',
+        lingala: 'bokokani, bolongobani   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adhérence  ',
+        lingala: 'libándemi, libátemi, likangemi,lidátemi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adhérent, ente  ',
+        lingala: 'molandi, moyambi, mobátemi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adhérer  ',
+        lingala: 'kobándema,koyíngela na, kokÔ¡t¡ na  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adhésif, ive',
+        lingala: 'datidati, daidai ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adhésion ',
+        lingala: 'boyíngeli na, bokÔ¡ti na  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'aadieu   ',
+        lingala: 'moseso, eseseli  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adjectif   ',
+        lingala: 'libakemi   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adjoindre  ',
+        lingala: 'kosangisa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adjoint, ointe   ',
+        lingala: 'molandi, mosálisi, mosungi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adjudant   ',
+        lingala: 'ázidá, ádjidá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adjurer   ',
+        lingala: 'kobÔondela  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'admettre ',
+        lingala: 'koyamba, kondima   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'administrateur, trice ',
+        lingala: 'moyángeli  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'administration  ',
+        lingala: 'eyángeli  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'administrer   ',
+        lingala: 'koyángela , kopésa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'admirable   ',
+        lingala: '-a lisími, -a bosími  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'admirateur, trice ',
+        lingala: 'mosími   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'admiration  ',
+        lingala: 'lisími, bosími   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'admirer   ',
+        lingala: 'kokámwa, kosíma   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'admission  ',
+        lingala: 'boyambi, bondimami   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'admonestation ',
+        lingala: 'lipáleli, lipámeli, lidosi, ligángeli, bopápeli, bopámeli, bodosi, bogángeli ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'admonester   ',
+        lingala: 'kopálela, kopámela, kodosa,kogángela  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adolescence  ',
+        lingala: 'bolenge, bonzéngá, boseka  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adolescent, ente  ',
+        lingala: 'elenge, monzéngá, móseka  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adonner (s’)  ',
+        lingala: 'komípesa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adopter  ',
+        lingala: 'kosangola, kokamata mwana  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adoptif, ive   ',
+        lingala: ' -a bosangolami,mosangoli,mokamati, mozwi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adoption  ',
+        lingala: 'bosangoli, lisangoli, bokamati, bozwi mwana,bondimi   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adorable  ',
+        lingala: '-a bosími, -a lisími  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adorateur, trice  ',
+        lingala: 'mokúmisi, mosími,mokúmbameli  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adorer  ',
+        lingala: 'kokúmisa, kokúmbamela, ko(n)gumbamela  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adosser  ',
+        lingala: 'koyekemisa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adoucir ',
+        lingala: 'kolɛmbisa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adresse   ',
+        lingala: 'ntoki  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adresser  ',
+        lingala: 'koloba, kolobisa, kolobela,kotínda, kotóma, kotíndela,koloba na  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adroit, oite   ',
+        lingala: ' -a ntoki ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adroit, oite   ',
+        lingala: ' -a ntoki ',
         // tslint:disable-next-line: max-line-length
         exemple:''
       },
