@@ -1610,7 +1610,7 @@ export class HomePage {
       },
       {
         francais: 'adresse   ',
-        lingala: 'ntoki  ',
+        lingala: 'ntoki,adelesi  ',
         // tslint:disable-next-line: max-line-length
         exemple:''
       },
@@ -1619,6 +1619,313 @@ export class HomePage {
         lingala: 'koloba, kolobisa, kolobela,kotínda, kotóma, kotíndela,koloba na  ',
         // tslint:disable-next-line: max-line-length
         exemple:''
+      },
+      {
+        francais: 'adroit, oite   ',
+        lingala: ' -a ntoki ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adroitement   ',
+        lingala: ' na ntoki ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'aduler   ',
+        lingala: ' kolɛlɛ, kolela ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adulte   ',
+        lingala: ' mokóló ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adultère   ',
+        lingala: ' bokáli, ekóbo, zambó  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adultérin, ine   ',
+        lingala: ' makángo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'advenir   ',
+        lingala: ' Kokpéla, kokwéla, kosálema  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adverbe   ',
+        lingala: ' litɛmɛlɛ  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adversaire  ',
+        lingala: ' mbanda, mongúna wa lisano  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adverse   ',
+        lingala: '  lisolongo , esúsu  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adversité   ',
+        lingala: ' mawa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'restons unis dans l’adversité: tózala lisángá atá na (ntángo ya) bwálé.  '
+      },
+      {
+        francais: 'aérer   ',
+        lingala: ' kopɛpisa, koyíngisa (kolekisa) mpéma ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'Aérer une chambre:kopɛpisa (koyíngisa mpéma tô mopɛpɛ na) eténi ya kolála. '
+      },
+      {
+        francais: 'aérien, enne   ',
+        lingala: ' -a mpéma, -a likoló , -a mpéma, -a mopɛpɛ ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' 1)un phénomène aérien : eloko ya likoló.  2)un animal aérien: nyama ya mopɛpɛ. 3) le transport aérien : talasipólo ya mopɛpɛ, '
+      },
+      {
+        francais: 'aérodrome   ',
+        lingala: ' -mwâ libándá lya mpɛpo  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'l’aérodrome de Matadi: mwâ libándá lya mpɛ́po ya Matadi'
+      },
+      {
+        francais: 'aérogare   ',
+        lingala: ' gále ya mpɛ́po  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' l’aéroport d’Abidjan : libándá-mpɛ́po lya Abizá'
+      },
+      {
+        francais: 'aéronautique  ',
+        lingala: ' -zébi-mpɛ́po ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'aéroport    ',
+        lingala: ' libándá-mpp¡  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'affabilité   ',
+        lingala: ' -a ntoki ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'affabilité ',
+        lingala: ' bonkóndé, botósi, bobóto',
+        // tslint:disable-next-line: max-line-length
+        exemple:' parler avec affabilité'
+       
+      },
+      {
+        francais: 'affable   ',
+        lingala: ' -a bobóto',
+        // tslint:disable-next-line: max-line-length
+        exemple:'Un air affable: elongi ya bobóto'
+      },
+      {
+        francais: 'affabulation  ',
+        lingala: ' -lokutá ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' cette histoire est une pure affabulation : lisoló liye lizalí lokutá mpenzá.'
+      },
+      {
+        francais: 'affabuler  ',
+        lingala: ' kokósa, kobúba',
+        // tslint:disable-next-line: max-line-length
+        exemple:'cet homme affabule:  moto óyo azalí kokósa.'
+      },
+      {
+        francais: 'affadir   ',
+        lingala: ' kosalola ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' affadir une sauce kosalola moswá (sÔsi).  '
+      },
+      {
+        francais: 'affadissement   ',
+        lingala: ' lisaloli ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'affaiblir',
+        lingala: ' kolɛmbisa, koyéisa motaú  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'affaiblissement    ',
+        lingala: ' bolɛmbi, bolɛmbú ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'Affaiblissement du corps : bolɛmbi bwa nzóto'
+      },
+      {
+        francais: 'affaire   ',
+        lingala: ' likambo, ngambo,mombóngo, mombóngo  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' 1) cela ne me regarde pas : c’est son affaire:  etálí ngáí te: likambo lya ye. 2)  faire une bonne affaire : kosála mombóngo malámu, kotɛ́kɛ malámu. 3)  être dans les affaires: kosálá mombóngo. 4)ranger ses affaires'
+      },
+      {
+        francais: 'affairer (s’)   ',
+        lingala: 'komípésa, komítungisa, kotungisama  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'S’affairer sur un malad :  komítungisa mpo na mokoni (bokono) '
+      },
+      {
+        francais: 'affairisme   ',
+        lingala: ' lokóso la mbÔ¡ng¡  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'affairiste  ',
+        lingala: ' moí-mombóngo wa lokóso  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' c’est un affairiste :  azalí moímombóngo wa lokosó'
+      },
+      {
+        francais: 'affaissement',
+        lingala: ' bokiti, bobúkani ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' un affaissement de terrain :  bokiti bwa mabelé.'
+      },
+      {
+        francais: 'affaisser (s’)   ',
+        lingala: ' kokwéya makási,kokpâ,kokpéya ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'le toit de la maison s’est affaissé: motondi mwa ndáko mokweyi makási. '
+      },
+      {
+        francais: 'affaler (s’)   ',
+        lingala: ' komíkpéisa,komíkwéisa, komíbwaka  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'S’affaler dans un lit: kotíka nzóto ekita na nsé na makási komíkpéisa na mbéto.'
+      },
+      {
+        francais: 'affamé, ée  ',
+        lingala: ' -a nzala (makási)  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'un lion affamé: nkoi ya nzala.'
+      },
+      {
+        francais: 'affamer   ',
+        lingala: ' koyókisa nzala ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' affamer la population d’un pays: koyókisa bato ba ekólo nzala'
+      },
+      {
+        francais: 'affectation    ',
+        lingala: ' boluboli, liluboli ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) affectation au poste de directeur: boluboli na ebóngá ya dikitɛ́lɛ. '
+      },
+      {
+        francais: 'affecter   ',
+        lingala: '  kotínda, kolubola,kosálel, koyókisa mpasí, koyókisa mawa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) ce fonctionnaire est affecté à Matadi : kaláka óyo bamótíndí/bamólubolí na. 2)  affecter une salle à la réunion : kosálela ndáko eye mpÊ¡ na likita. 3) la mort de ma mère m’a beaucoup affecté : liwá lya mamá wa ngáí eyókísákí ngáí mawa míngi'
+      },
+      {
+        francais: 'affectif, ive   ',
+        lingala: ' -a mayóki, -a bolingo  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adroit, oite   ',
+        lingala: ' -a ntoki ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' la vie affective : bomoi bwa mayóki tô bwa bolingo '
+      },
+      {
+        francais: 'affection   ',
+        lingala: ' boling, mpási ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1)l’affection maternelle: bolingo bwa mamá. 2)  une affection cutanée: bokono bwa lomposo'
+      },
+      {
+        francais: 'affectionner  ',
+        lingala: ' kolinga míngi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' affectionner son enfant:  kolinga mwÉana wa yÉe míngi. '
+      },
+      {
+        francais: 'affectueusement  ',
+        lingala: ' na bolingo  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' la mère parle affectueusement à son enfant:  mamá azalí koloba na mwÉana na yÉe na bolingo'
+      },
+      {
+        francais: 'affectueux, euse  ',
+        lingala: ' -a bolingo míngi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une parole affectueuse: liloba lya bolingo.'
+      },
+      {
+        francais: 'affermir  ',
+        lingala: ' koléndisa,kolénda, komílendisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' 1) affermir un mur :koléndisa efelo. 2) son pouvoir s’affermit : bokonzi bwa yÉe bozalí kolénda.'
+      },
+      {
+        francais: 'affermissement   ',
+        lingala: ' bolendisi, lilendisi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' affermissement du pouvoir : bolendisi bwa bokonzi.'
+      },
+      {
+        francais: 'affichage  ',
+        lingala: ' etálisi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'affichage des résultats : etálisi bilembo'
+      },
+      {
+        francais: 'affiche  ',
+        lingala: ' litálisi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une affiche électorale :litálisi lya boponi, lya voti '
+      },
+      {
+        francais: 'afficher    ',
+        lingala: ' kotálisa, koyébisa, kolakisa polélé, kotálisa, komonisa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' 1) afficher les résultats d’examens : koyébisa bilembo bya mamekano. 2)  afficher son mécontentement :  kolakisa polélé bobóyi. 3) cette fille s’affiche avec son amant : moséka óyo akomílakisa na mobáli wa ye.'
+      },
+      {
+        francais: 'affiler   ',
+        lingala: ' kopélisa, koseba ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'affiler un couteau: koseba mbɛlí/kopelisa mbɛlí '
+      },
+      {
+        francais: 'affilier (s’)  ',
+        lingala: ' komíkotisa, komíkomisa, koíngela ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'s’affilier à un parti politique :  komíkotisa na lingómbá lyoko lya politíki.'
+      },
+      {
+        francais: 'affirmation  ',
+        lingala: ' Bondimi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une affirmation mensongère:  bondimi bwa lokutá'
       },
       {
         francais: 'adroit, oite   ',
