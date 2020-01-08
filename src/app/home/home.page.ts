@@ -1928,10 +1928,457 @@ export class HomePage {
         exemple:'une affirmation mensongère:  bondimi bwa lokutá'
       },
       {
-        francais: 'adroit, oite   ',
+        francais: 'affirmer   ',
+        lingala: ' kondima, koloba polélé, koyébisa polélé,komonisa, kolakisa polélé, kotálisa polélé ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) j’affirme que tu te trompes : solo nandimí te ozalí kokósa. 2)  affirmer son autorité : komonisa bokonzi bwa ye. 3)  tu dois t’affirmer davantage : osɛngɛ́lí komímonisa polélé'
+      },
+      {
+        francais: 'affliction  ',
         lingala: ' -a ntoki ',
         // tslint:disable-next-line: max-line-length
         exemple:''
+      },
+     
+      {
+        francais: 'adroit, oite   ',
+        lingala: 'mawa, mpási o motéma ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+   
+      {
+        francais: 'affligeant, ante  ',
+        lingala: '-a mawa, -a motéma mpási ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' une nouvelle affligeante : sango ya mawa'
+      },
+      
+      {
+        francais: 'affliger   ',
+        lingala: ' koyókisa mawa, koyókisa motéma mpási  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'cette nouvelle nous afflige : sango eye eyókisi (epési) bísó mawa '
+      },
+      
+      {
+        francais: 'affluence   ',
+        lingala: ' boiké bwa bato  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une heure d’affluence : ngonga ya boiké bwa bato '
+      },
+      
+      {
+        francais: 'affluent    ',
+        lingala: ' motímá, mongálá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'le Kasai est un affluent du Congo : Kasá i ezalí motíma mwa ebale Kongo'
+      },
+      
+      {
+        francais: 'affluer   ',
+        lingala: ' kofúluka ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' les clients affluent vers le marché : bakiliyá bazalí kofúluka o zándo.' 
+      },
+      
+      {
+        francais: 'affolement  ',
+        lingala: ' bobángi makási  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'pas d’affolement!: bobángi tɛ́, kobánga tɛ́.'
+      },
+    
+      {
+        francais: 'affoler   ',
+        lingala: ' kobúlinginya, kotámbwisa motó, koyéisa ligbómá ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) cet accident l’a affolé :  likámá liye litámbwísí ye mayɛ́lɛ. 2) ne nous affolons pas ! : tóbúlungana tɛ́/ tózwa ligbómá tɛ́. '
+      },
+      {
+        francais: 'affranchi, ie  ',
+        lingala: ' mokangolami, mokangwami  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'affranchi de l’esclavage :  alongwi na boómbo '
+      },
+      {
+        francais: 'affranchi  ',
+        lingala: '  kokangola, kolongola na boómbo/na nkaká, kokómisa nsomi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) affranchir un esclave : kokangola moómbo, kolongola (moómbo) na boómbo/kokómisa moómbo, 2) affranchir une lettre : kotíya tÔ¥mb¥l¥ na monkandá'
+      },
+      {
+        francais: 'affranchissement   ',
+        lingala: '  bokangolami, bonsomi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) l’affranchissement d’un esclave : bokangolami bwa moómbo. 2) l’affranchissement d’une lettre :  botíí tɛ́mbɛlɛ na monkandá.'
+      },
+      {
+        francais: 'affréter  ',
+        lingala: ' kofútela mótuka (masúwa, mpɛ́pi) ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'affreusement  ',
+        lingala: ' na nsomo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' cet homme a été affreusement assassiné: moto óyo babomí ye na nsomo.'
+
+      },
+      {
+        francais: 'affreux, euse   ',
+        lingala: ' -a nsomo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'un meurtre affreux: liwá lya nsomo '
+      },
+
+      {
+        francais: 'affriolant, ante  ',
+        lingala: ' -a mpósá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'des gestes affriolants, une robe affriolante:  bikela bya bopési mpósá'
+      },
+
+      {
+        francais: 'affront  ',
+        lingala: ' nsoni',
+        // tslint:disable-next-line: max-line-length
+        exemple:'subir un affront : koyóka nsÔ¡ni'
+      },
+
+      {
+        francais: 'affrontement    ',
+        lingala: ' etumba ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'l’affrontement de deux armées ennemies : bitumba bya mampingá mábalé.'
+      },
+
+      {
+        francais: 'affronter   ',
+        lingala: ' kobuna, kobunda  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) affronter un ennemi ou un danger : kobuna na mongúná tô na likámá. 2)  deux lutteurs s’affrontent :babuni bábalé bazali kobuna '
+
+      },
+
+      {
+        francais: 'affubler   ',
+        lingala: ' kolátalata ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) il est affublé d’un vieux costume :  alátílati kasáka ya kala. 2) s’affubler d’un vieux costume : komílatisa kazáka ya kala'
+      },
+
+      {
+        francais: 'affût (à l’)   ',
+        lingala: ' linongi nyama ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'se mettre à l’affût d’un sanglier : konongo nsombo'
+      },
+
+      {
+        francais: 'affûter   ',
+        lingala: ' kopelisa, koseba ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'affûter un couteau : kopelisa (koseba) mbɛlí '
+      },
+
+      {
+        francais: 'africain, aine    ',
+        lingala: ' -a Afríka ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une langue africaine, les peuples africains, les Africains: bato ba afríka, bÉana ba afríka'
+      },
+  
+      {
+        francais: 'africanisation  ',
+        lingala: ' boafrikanizé ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'africanisation des cadres : boafrikanisa bakonzi'
+      },
+  
+      {
+        francais: 'africaniser    ',
+        lingala: ' koafrikanizé ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'africaniser les cadres : koafrikanizé bakambi'
+      },
+ 
+      {
+        francais: 'africanité   ',
+        lingala: ' -a ntoki ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+
+      {
+        francais: 'Afrique  ',
+        lingala: ' Afríka, Afilíka  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+    
+      {
+        francais: 'Afrique du Sud   ',
+        lingala: ' Afríka ya Súdi tô Afríka ya nsé ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+     
+      {
+        francais: 'agaçant, ante    ',
+        lingala: ' -a kopésa nkándá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'un bruit agaçant : makɛlɛ́lɛ ya kopésa nkándá'
+      },
+   
+      {
+        francais: 'agacement    ',
+        lingala: ' nkándá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'éprouver de l’agacement : koyóka nkándá.'
+      },
+     
+      {
+        francais: 'agacer   ',
+        lingala: ' kotúmola, koyókisa moto motéma nkándá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' tu m’agaces !: ozalí kotúmola ngáí.'
+      },
+   
+      {
+        francais: 'âge   ',
+        lingala: 'mbúla, mobú  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'quel âge as-tu ?  : ozalí na mibú (mbúla) bóní?'
+     },  
+      {
+        francais: 'âgé, ée   ',
+        lingala: ' a mbúla ebelé, mokóló, mpaka, mobangé',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) une personne âgée : moto wa mbúla ebelé, mokóló, mpaka, mobangé. 2) âgé de quinze ans : wa mibú zómi na mítano.'
+      },
+      {
+        francais: 'agenda',
+        lingala: ' manáka ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' noter ses rendezvous dans un agenda : nakomaka na manáka ma ngáí makambo nakosála'
+      },
+      {
+        francais: 'agenouiller   ',
+        lingala: ' kofúkama  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'s’agenouiller pour prier : kofúkama mpÊ¡ na kosámbela'
+      },
+      {
+        francais: 'agent    ',
+        lingala: ' mosáli, azâ  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'agent agricole, agent de police : mosáli wa bilanga, (mosá li wa) pulúsi'
+      },
+      {
+        francais: 'agglomération   ',
+        lingala: ' lisangá lya bato, mbóka, engumba',
+        // tslint:disable-next-line: max-line-length
+        exemple:'des gens devant le stade : lisangá lya bato libosó lya libándá lya masano. 2) une agglomération urbaine :  (lisangá lya) bato ba engumba.'
+      },
+      {
+        francais: 'agglomérer (s’)    ',
+        lingala: ' kosangana libóké, koyángana libóké esíka yoko ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'la foule s’agglomère devant les magasins de vêtements : bato baíké basangání libóké libosó lya magazíni ma bilambá '
+      },
+      {
+        francais: 'agglutiner (s’)   ',
+        lingala: 'kofinana, kokangana ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' la foule s’agglutine devant le stade : bato baíké bafinání libosó lya libándá lya masano.'
+      },
+      {
+        francais: 'aggravation  ',
+        lingala: ' bongali, boyéi makási, botomboki ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'l’aggravation d’une maladie: botomboki bwa mpási, bongali bwa bokono'
+      },
+      {
+        francais: 'aggraver  ',
+        lingala: ' kongalisa, kotombokisa, koyéisa makási  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' 1) aggraver un mal : kongalisa bokono. 2) la maladie s’aggrave : bokono bongalí makási.'
+      },
+      {
+        francais: 'agile  ',
+        lingala: ' -a pɛ́pɛ́lɛ́',
+        // tslint:disable-next-line: max-line-length
+        exemple:' une démarche agile : etámboli ya pɛ́pɛ́lɛ́'
+      },
+      {
+        francais: 'agilement  ',
+        lingala: ' na pɛ́pɛ́lɛ́  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'marcher agilement : kotámbola (na) pɛ́pɛ́lɛ́.'
+      },
+      {
+        francais: 'agilité  ',
+        lingala: ' ndíbe, bonítóí ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'l’agilité du corps, des doigts : ndíbe ya nzóto, ya misapi'
+      },
+      {
+        francais: 'agir  ',
+        lingala: ' kosála, kokela ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' 1) au lieu de parler il faut agir :esíká te óloba malámu ósála'
+      },
+      {
+        francais: 'agissements  ',
+        lingala: ' bisálásala, bisálélá ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'je déteste ses agissements:  nayiní bisálásala (bisálélá) biye (naye)'
+      },
+      {
+        francais: 'agitation  ',
+        lingala: ' mobúlú,  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) agitation de l’eau : mobúlú mwa (ya) mái. 2) agitation estudiantine :  mobúlú mwa bayékoli '
+      },
+      {
+        francais: 'agiter   ',
+        lingala: ' koningisa, koningana,komítungisa mpámba',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) agiter un liquide : koningisa limái. 2)  l’eau s’agite : mái mazalí koningana. 3) ce nest pas la peine de s’agiter : komí tungisa ezalí na ntína tɛ́'
+      },
+      {
+        francais: 'agneau   ',
+        lingala: 'mɛ́mɛ́, mpaté,kondolo, mpatá,',
+        // tslint:disable-next-line: max-line-length
+        exemple:'viande d’agneau : nyama (mosuní mwa) ya mɛ́mɛ́, nyama ya kondolo, nyama (mosuni mwa) ya mpatá'
+      },
+      {
+        francais: 'agnelet  ',
+        lingala: ' mɛ́mɛ́-mwana, kondolo-mwana,mpáté-mwÉana ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'agnelle  ',
+        lingala: ' mɛ́mɛ́-mwasi, kondolo-mwasi,mpáté-mwasi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'agonie   ',
+        lingala: ' mpásí ya liwá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'être à l’agonie : kobuna (kobunda) na mpási ya liwá.'
+      },
+      {
+        francais: 'agoniser   ',
+        lingala: ' kobuna na liwá, kobunda na liwá, kokóma na súka  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' le régime politique agonise : bokonzi bokómí na súka'
+      },
+      {
+        francais: 'agouti  ',
+        lingala: ' ngbuo, ngwo, agutí  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une sauce à l’agouti: súpu elámbemí na mosuni mwa ngbuo'
+      },
+      {
+        francais: 'agrafe   ',
+        lingala: ' ekangya, pɛ́ngɛlɛ, pɛ́ngi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' agrafe de bureau :  pɛ́ngɛlɛ ya biló'
+      },
+      {
+        francais: 'agrafeuse   ',
+        lingala: ' likangya ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'agraire  ',
+        lingala: ' -a mabelé tô -a bilanga ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une loi agraire: mobéko motálí mabelé, mobéko motálí bilanga. '
+      },
+      {
+        francais: 'agrandir  ',
+        lingala: ' kokólisa,  kokóla ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) agrandir une maison :kokólisa ndáko, kokyéisa ndáko. 2) la famille s’est agrandie libóta liyéi linÔ¥n¥, libóta likólí.        :        '
+      },
+      {
+        francais: 'agréable  ',
+        lingala: ' -a bosepelisi, -lámu, -a kitoko  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une musique agréable: miziki mya kitoko.        '
+      },
+      {
+        francais: 'agréablement  ',
+        lingala: 'malámu, na bosepelisi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' ta visite me surprend agréablement : lipaya lya ye esepélísí míngi.'
+      },
+      {
+        francais: 'agréer   ',
+        lingala: ' kondima ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'agréer une demande: kondima lisɛ́ngi.'
+      },
+      {
+        francais: 'agrément  ',
+        lingala: ' bondimi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'obtenir l’agrément du ministre :  kozwa bondimi bwa (ya) minístɛlɛ.'
+      },
+      {
+        francais: 'agrémenter  ',
+        lingala: ' kokémbisa',
+        // tslint:disable-next-line: max-line-length
+        exemple:'un conte agrémenté de chansons:  lisapo likémbisami na nzémbo.'
+      },
+      {
+        francais: 'agresser   ',
+        lingala: ' kotúmola, kobunisa, kobundisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'agresser un passant: kotúmola (kobunisa) moleki nzelá.'
+      },
+      {
+        francais: 'agresseur   ',
+        lingala: ' motúmoli, mobunisi, mobundisi',
+        // tslint:disable-next-line: max-line-length
+        exemple:'reconnaître un agresseur : koyéba motumoli (mobunisi, mobundisi).'
+      },
+      {
+        francais: 'agressif, ive    ',
+        lingala: '-a matúmoli, -a kobunisa, -a kobundisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une parole agressive : liloba lya kotúmola       '
+      },
+      {
+        francais: 'agressivement   ',
+        lingala: ' na ndéngé ya litúmolí  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'répondre agressivement à une question : koyanola na nkándá na motúná      '
+      },
+      {
+        francais: 'agriculteur, trice   ',
+        lingala: ' molóni, mosáli-bilanga ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'mon oncle est agriculteur : nÔ¡k¡ wa ngáí azali molóni (mosáli-bilanga).        '
+      },
+      {
+        francais: 'agriculture  ',
+        lingala: ' mosálá mwa mabelé, (mosálá mwa) bilanga ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'l’agriculture est la principale richesse de ce pays: (mosála mwa) bilanga bizalí nkita ya libosó ya mbóka eye.        '
+      },
+      {
+        francais: 'agripper   ',
+        lingala: ' kokanga, komíkanga na  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' 1) il m’a agrippé à la chemise : akangí ngáí makási na simísi. 2) l’enfant s’agrippe à la robe de sa mère: mwana amíkangí makási na lobi ya mamá wa ye        '
       },
       {
         francais: 'adroit, oite   ',
