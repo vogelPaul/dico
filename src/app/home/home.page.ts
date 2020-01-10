@@ -1733,7 +1733,6 @@ export class HomePage {
         lingala: ' bonkóndé, botósi, bobóto',
         // tslint:disable-next-line: max-line-length
         exemple:' parler avec affabilité'
-       
       },
       {
         francais: 'affable   ',
@@ -1939,14 +1938,6 @@ export class HomePage {
         // tslint:disable-next-line: max-line-length
         exemple:''
       },
-     
-      {
-        francais: 'adroit, oite   ',
-        lingala: 'mawa, mpási o motéma ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      },
-   
       {
         francais: 'affligeant, ante  ',
         lingala: '-a mawa, -a motéma mpási ',
@@ -2379,6 +2370,561 @@ export class HomePage {
         lingala: ' kokanga, komíkanga na  ',
         // tslint:disable-next-line: max-line-length
         exemple:' 1) il m’a agrippé à la chemise : akangí ngáí makási na simísi. 2) l’enfant s’agrippe à la robe de sa mère: mwana amíkangí makási na lobi ya mamá wa ye        '
+      },
+      {
+        francais: 'agronome   ',
+        lingala: ' nganga-milóna  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'agronomie   ',
+        lingala: ' zébi-milóna, zébi-bilanga ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'étudier l’agronomie : koyékola zébi-milóna. '
+      },
+      {
+        francais: 'adroit, oite   ',
+        lingala: ' -a ntoki ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'agrumes   ',
+        lingala: ' bondímo, malálá ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' cultiver des agrumes : kolóna (kokóna) mandímo.        '
+      },
+      {
+        francais: 'aguerrir   ',
+        lingala: ' koléndisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'la souffrance l’a aguerri :mpási (minyoko) eléndisaka'
+      },
+      {
+        francais: 'aguets (aux -)   ',
+        lingala: ' na bonongi, na bokɛ́ngi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'le chasseur est aux aguets : moí-bokila azalí na bokÔ¥ngi.        '
+      },
+      {
+        francais: 'aguichant, ante  ',
+        lingala: ' mobɛ́mbi, - a kobɛ́mbɛ ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' une fille aguichante  : móseka mobɛ́mbi. '
+      },
+      {
+        francais: 'aguicher   ',
+        lingala: ' kolɛ́tɛ, kobɛ́mbɛ ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'cette fille aguiche les garçons : móseka óyo azalí kolɛ́tɛ banzénga.        '
+      },
+      {
+        francais: 'aguicheur, euse  ',
+        lingala: ' -a kolɛ́tɛ, molɛ́ti  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'un regard aguicheur :  etáleli ya kolɛ́tɛ.        '
+      },
+      {
+        francais: 'ahuri, ie   ',
+        lingala: ' -a bokámwisi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'je suis ahuri: sango eye ezalí kokámwisa.        '
+      },
+      {
+        francais: 'ahurissant, ante    ',
+        lingala: ' -kokámwa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'cette nouvelle est ahurissante:  sango ya koká mwa '
+      },
+      {
+        francais: 'aide   ',
+        lingala: ' lisungi, lisálisi, ligamisi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' 1) apporter une aide à qqn :  kosálisa (kosunga) moto. 2) prendre un aide pour accomplir une tâche difficile :  kozwa mosálisi mpo ya kosála mosálá mokási.        '
+      },
+      {
+        francais: 'aider [ede]   ',
+        lingala: ' kosálisa, kosunga, kogamisa   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) viens m’aider ! :  yáká kosálisa ngáí. 2) s’aider de sa canne : komísálisa na língénda. 3)  nous devons nous aider : tosɛngɛ́lí kosalisana bísó na bísó.        '
+      },
+      {
+        francais: 'aïeul, aïeule, aïeuls, aïeules   ',
+        lingala: ' nkoko ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'voici l’aïeul ! : tálá nkoko ye óyo        '
+      },
+      {
+        francais: 'aïeux  ',
+        lingala: ' bankoko ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'aigle  ',
+        lingala: ' engondó, ewango',
+        // tslint:disable-next-line: max-line-length
+        exemple:' '
+      },
+      {
+        francais: 'aigre  ',
+        lingala: ' -a ngai ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'un vin aigre : víno (ya) ngai.        '
+      },
+      {
+        francais: 'aigreur   ',
+        lingala: ' ngai  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'aigreur d’un fruit : ngai ya mbuma'
+      },
+      {
+        francais: 'aigri, ie  ',
+        lingala: ' mabé, -a nkándá ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' une personne aigrie : moto wa nkándá.  '
+      },
+      {
+        francais: 'aigrir  ',
+        lingala: ' kokómisa ngai, nkándá nkándá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'l’échec l’a aigri : kopola ekomisa ye nkanda nkanda'
+      }, {
+        francais: 'aigu, uë   ',
+        lingala: ' -pótú, -a nsonge, -a mino  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' 1) un couteau aigu: mbɛlí epótú, mbɛlí ya mino, mbɛlí epelí. 2) une voix aiguë :  mongóngó likoló. 3) une douleur aiguë: mpási ekási, mpási ya makási        '
+      }, {
+        francais: 'aiguille   ',
+        lingala: ' ntonga ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'aiguiller   ',
+        lingala: ' kotínda ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'aiguiller un enfant vers un métier manuel : kotínda mwana na mosála mwa maboko.        '
+      }, {
+        francais: 'aiguiser   ',
+        lingala: ' koseba, kopelisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'aiguiser un couteau: koseba (kopelisa) mbɛlí '
+      }, {
+        francais: 'aiguisoir   ',
+        lingala: ' esebi, epelisa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'ail  ',
+        lingala: ' áyi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une bouche qui sent l’ail:  monoko mokolumba solo ya áyi.         '
+      }, {
+        francais: 'aile   ',
+        lingala: ' lipapú ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' 1) l’aile d’un oiseau : lipapú lya ndɛkɛ. 2)  les ailes d’un avion : mapapú ma mpɛ́po.        '
+      }, {
+        francais: 'ailé, ée  ',
+        lingala: '-a lipapú, -a mapapú',
+        // tslint:disable-next-line: max-line-length
+        exemple:' un insecte ailé :  epimbwélá'
+      }, {
+        francais: 'ailleurs   ',
+        lingala: ' esíká esúsu',
+        // tslint:disable-next-line: max-line-length
+        exemple:'aller ailleurs : kokɛndɛ esíká esúsu'
+      }, {
+        francais: 'ailleurs (d’)   ',
+        lingala: ' kútu, kotó, gutú ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' je ne vous recevrai pas et d’ailleurs je serai absent : nakoyamba bíno te mpé kútu nakozala te.        '
+      }, {
+        francais: 'aimable   ',
+        lingala: ' -lámu, -a bolingo  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' une personne aimable : moto molámu, moto wa bolingo.        '
+      }, {
+        francais: 'aimant   ',
+        lingala: ' emá ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' une personne aimante : moto wa kolinga, moto wa bolingo.        '
+      }, {
+        francais: 'aimer    ',
+        lingala: ' kolinga,komílinga,kolingana ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1)  aimer ses enfants, aimer la musique : kolinga bana ba ye ; kolinga mizíki. 2)  s’aimer bien dans tel ou tel vêtement : des fiancés qui s’aiment passionnément : babandemi balingání míngi.        '
+      }, {
+        francais: 'aîné, ée  ',
+        lingala: ' kulútu, motómólo, motúmóló,yayá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' le fils aîné ; l’aîné de la famille : motómóló/motúmóló (wa) mobáli, (n)kulútu (wa) mobáli, yayá (wa) mobáli, motómóló/motúmóló wa libóta, kulútu wa libóta, yayá wa libóta, mwÉana wa libosó na libóta.        '
+      }, {
+        francais: 'aînesse   ',
+        lingala: 'bokóló ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'!) droits d’aînesse : makokí ma mokóló.        '
+      }, {
+        francais: 'ainsi  ',
+        lingala: ' bôngó,lokóla,bó ,mpé lisúsu, mpé',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1)continuez à travailler ainsi : kóbáni (bókóba) kosálá bôngó. 2) ainsi que vous me l’avez demandé:  lokóla bosɛ́ngɛ́kí ngái (bó botúnákí ngáí). 3) la mère ainsi que les enfants, le matin ainsi que le soir : mamá mpé bána, na ntongo mpé na mpókwa.'
+      }, {
+        francais: 'air   ',
+        lingala: ' mpɛ́ma, mopɛpɛ  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) prendre l’air : kozwa mopɛpɛ. 2) avoir l’air triste : kozala na elongi ya mawa.'
+      }, {
+        francais: 'aire ',
+        lingala: 'etando ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'l’air d’atterrissage des avions : etando ya bokiti bwa mpɛ́p¡.        '
+      }, {
+        francais: 'aisance    ',
+        lingala: ' bolámu, nsɛi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' vivre dans l’aisance : kobíka na nsɛi, kobíka malámu.        '
+      }, {
+        francais: 'aisance (lieux d’)  ',
+        lingala: ' zongo, esumbelo, kabinɛ́ ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'aise    ',
+        lingala: ' bolámu, malámu  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'être à l’aise: kozala malámu, kozala na mpási tɛ́'
+      }, {
+        francais: 'aisé, ée  ',
+        lingala: '  -a bolɛmbú, -a mpási tɛ́, -taú  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' 1) un travail aisé : mosála mwa bolɛmbú(mosálá mwa mpási tɛ́)        '
+      }, {
+        francais: 'aisément  ',
+        lingala: ' na bolɛmbú,na pɛtɛ, na nsɛi',
+        // tslint:disable-next-line: max-line-length
+        exemple:' réussir aisément : kolónga na mpete.   '
+      }, {
+        francais: 'aisselle    ',
+        lingala: ' lisásámbá, lisápusapu ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'ajourner   ',
+        lingala: ' kozóngisa sima , kozóngisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' 1) ajourner une décision :  kozóngisa sima mokán. 2) ajourner un étudiant :  kozóngisa moyékoli.        '
+      }, {
+        francais: 'ajouter   ',
+        lingala: ' kobakisa',
+        // tslint:disable-next-line: max-line-length
+        exemple:'ajouter du sel et du piment à la viande : kobakisa móngwa mpé pilipíli na nyama.        '
+      }, {
+        francais: 'ajustement  ',
+        lingala: ' boɛngibinyi, bolongibinyi, bokokanisi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' ajustement des prix : boɛngibinyi bwa ntálo.        '
+      }, {
+        francais: 'ajuster   ',
+        lingala: ' koɛngibinya, kolongibinya, kososolo,  kob¡ngisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) ajuster un prix : kolongibinya ntálo . 2) ajuster une antilope :  kososolo mbólókó. 3) ajuster un vêtement : kobongisa elambá '
+      }, {
+        francais: 'ajusteur   ',
+        lingala: ' motúli-bibendé  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' le métier d’ajusteur : mosálá mwa motúli-bibendé        '
+      }, {
+        francais: 'akara  ',
+        lingala: ' akalá',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'akassa   ',
+        lingala: ' akasa, mokáté mwa masángú  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'akra  ',
+        lingala: ' akala, mokáté ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'alambiqué, ée   ',
+        lingala: ' -a mobúlú, -a mokakatano  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' un raisonnement alambiqué :  makanisi ma mobúlú'
+      }, {
+        francais: 'alanguir    ',
+        lingala: ' kolɛmbisa   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) la maladie l’a alangui :  bokono bolɛmbísí ye . 2) s’alanguir au soleil :  kolɛmbɛ na mói.        '
+      }, {
+        francais: 'alarmant, ante   ',
+        lingala: ' -a kobángisa, -a bobángisi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une nouvelle alarmante : sango ya kobángisa.         '
+      }, {
+        francais: 'alarme  ',
+        lingala: ' bobángisi, libángisi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) donner l’alarme: kopésa libángisi. 2)  une fausse alarme: bobángi bwa lokutá.'
+      }, {
+        francais: 'alarmer',
+        lingala: ' kobángisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' 1) cette nouvelle a alarmé la population: sango eye ebángisi bato. 2) population s’est alarmée : bato babángákí.        '
+      }, {
+        francais: 'albinos ',
+        lingala: ' ndúndu, elúmbú, mbunzú',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'album   ',
+        lingala: 'alibomi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'albumine   ',
+        lingala: ' alibiminɛ ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'l’albumine dans le sang: alibiminɛ  na makilá.         '
+      }, {
+        francais: 'alcool   ',
+        lingala: 'lotoko, ngbáko, álɛgɛ , abímbí, angɛ́nɛ́, alikole, ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'désinfecter à l’alcool : kosukola (kolongola mikolobɛ) na alikÔ¡le'
+      }
+      , {
+        francais: 'alcool   ',
+        lingala: 'masanga ma mÔ¡t¡, masanga makás',
+        // tslint:disable-next-line: max-line-length
+        exemple:' boire de l’alcool : kom¥l¥ lotoko.'
+      }, {
+        francais: 'alcoolique  ',
+        lingala: '  -a lotoko, -a ngbáko, -a alikolɛ  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'alcoolique  ',
+        lingala: '   molángi, molángwi, mom¥li-masanga  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une personne alcoolique : molángwi, molángi masanga.        '
+      },
+      {
+        francais: 'alcoolisé, ée   ',
+        lingala: ' (-a) makási, -a lotoko ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une boisson alcoolisée : masanga makási        '
+      }, {
+        francais: 'alcooliser   ',
+        lingala: ' kotíya lotoko tô alikolɛ  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'s’alcooliser à la bière :  kolánga tô kolángwa byɛ́lɛ.'
+      }, {
+        francais: 'alcoolisme   ',
+        lingala: ' bolángi, bolángwi, molángwá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'alcoolisme aigu : bolángilangi, milángwá.'
+      }, {
+        francais: 'alcootest   ',
+        lingala: ' emɛko alikoli, emɛkɛli alikoli ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) subir l’alcootest : kosálisa emɛko alikoli'
+      }, {
+        francais: 'alentours   ',
+        lingala: ' nzínganzínga, zóngázónga, zíngázíngá ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' les alentours d’une ville : nzíngánzíngá ya engumba        '
+      }, {
+        francais: 'alerte  ',
+        lingala: ' -a bokébi, -a ekéngé ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) jeune homme alerte: monzéngá wa bokébi. bokébisi. 2) donner l’alerte: kokébisa        '
+      }, {
+        francais: 'alerter   ',
+        lingala: ' kokébisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'alerter la population, l’opinion :  kokébisa bato        '
+      }, {
+        francais: 'alevin  ',
+        lingala: ' mpóndé, ndakála  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' il est interdit de pêcher l’alevin : epekísámí kolob mpóndé.        '
+      }, {
+        francais: 'alevinage   ',
+        lingala: ' bobokolo mpóndé ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'aleviner   ',
+        lingala: ' kotóndisa mái na mpóndé (ndakála',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'Algérie   ',
+        lingala: ' Alizelî',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'Algérien  ',
+        lingala: ' -a Alizelî, moíalizelí  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'algèbre  ',
+        lingala: ' alizɛ́bɛlɛ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'un cours d’algèbre: litéya lya alizɛ́bɛlɛ.         '
+      }, {
+        francais: 'aliénation   ',
+        lingala: ' nkabo,boómbo, boúmbu, boínga,ligbómá, libómá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) l’aliénation d’une propriété: nkabo ya mabelé tô lopángo. 2) aliénation des peuples colonisés: boómbo bwa bato bakonzámáki na mindɛ́lɛ́. 3) aliénation mentale : bobúngisi mayɛ́lɛ́'
+      }, {
+        francais: 'aliéné, ée   ',
+        lingala: ' (moto wa) libgómá/libómá ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'aliéner   ',
+        lingala: ' kokaba na bolingi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'alignement  ',
+        lingala: ' molongo, alimá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'alignement des élèves : molongo mwa bayékoli.        '
+      }, {
+        francais: 'aligner   ',
+        lingala: ' kotíya na molongo  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'les élèves s’alignent devant la classe : bayékoli batɛ́lɛmí molongo libosó lya kelási.        '
+      }, {
+        francais: 'aliment  ',
+        lingala: ' biléi, biloko bya boléi, bilyá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'préparer les aliments avant de les faire cuire : kolɛ́ngɛlɛ biléi yambo ya kobílámba (yambo ya kolámba byangó).'
+      }, {
+        francais: 'alimentation    ',
+        lingala: ' boléi, boléisi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'l’alimentation du bétail : boléi bwa nyama.         '
+      }, {
+        francais: 'alimenter  ',
+        lingala: 'boléi,koléisa, komíléisa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) alimenter un malade : koléisa mokoni. 2) alimenter une ville en eau :kopésa engumba mái. 3) le malade s’alimente tout seul:  mokoni azalí komíléisa ye moko. 4) s’alimenter en eau, en électricité : komípésa mái, lotilíki. '
+      }, {
+        francais: 'aliter   ',
+        lingala: ' kolálisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1)le médecin alite le malade:  mónganga alálisi mokoni.2) il s’est alité durant une semaine:alálákí (na mbéto) mpos0 mobimba         '
+      }, {
+        francais: 'allaitement  ',
+        lingala: ' bonúngisi, bopési mabɛ́lɛ, bomɛlisi mabɛ́lɛ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'allaitement maternel : bopési mabɛ́lɛ ma mamá.        '
+      }, {
+        francais: 'allaiter   ',
+        lingala: ' konúngisa, komɛlisa mabɛ́lɛ  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'allaiter son enfant : konúngisa mwÉana.        '
+      }, {
+        francais: 'alléchant, ante   ',
+        lingala: ' -a kobɛ́mbɛ, -a koléngola, -a kosɛ́nginya ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'allaiter   ',
+        lingala: ' konúngisa, komɛlisa mabɛ́lɛ  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' allaiter son enfant : konúngisa mwÉana. '
+      }, {
+        francais: 'alléchant, ante   ',
+        lingala: ' -a kobɛ́mbɛ, -a koléngola, -a kosɛ́nginya  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'une nourriture, une odeur alléchante        ',
+        lingala: ' biléi bya kobɛ́mbɛ.        ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'allécher     ',
+        lingala: ' kobɛ́mbɛ, koléngola, kosɛ́nginya  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' allécher par l’odeur de nourriture : kobɛ́mbɛ na biloko ya nsolo mpímbo.'
+      }, {
+        francais: 'alléger',
+        lingala: ' kokútola bozitó, bokási ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'alléger un fardeau ou une douleur: kokútola bozitó bwa mokúmba tô kokútola mpási.        '
+      }, {
+        francais: 'allégresse   ',
+        lingala: ' nsáí, esongo',
+        // tslint:disable-next-line: max-line-length
+        exemple:' un jour d’allégresse : mok¡l¡ mwa nsáí.        '
+      }, {
+        francais: 'Allemagne  ',
+        lingala: ' Alemáni ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'Allemand, ande   ',
+        lingala: ' -a alemáni, mó-alemáni, ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'aller   ',
+        lingala: ' kokɛndɛ,kozala (se porter )  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' 1) aller à pied : kokɛndɛ na makolo. 2) aller bien:  kozala malámu. 3) il faut s’en aller: esɛngɛ́li kokɛndɛ        '
+      }, {
+        francais: 'allergie  ',
+        lingala: ' nzóto ebóyi, al¥l¥zí ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' allergie au champignon : nzóto ebóyi mákombó, alɛlɛzi na mákombó.        '
+      }, {
+        francais: 'alliage  ',
+        lingala: ' lisangá lya bilÔ¡k¡  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' l’acier est un alliage à base de fer : asyé ezalí lisangá lya biloko eúti míngi mpenzá na bibendé.   '
+      }, {
+        francais: 'alliance   ',
+        lingala: 'bondeko, libála, bolóngani, makwéla, (lo)mpɛ́tɛ́ ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'alliance entre deux Etats, deux familles : bondeko káti ya bikólo bíbalé, mabóta mábalé'
+      },
+      {
+        francais: 'alliance   ',
+        lingala: ' makwéla, (lo)mpɛ́tɛ́ ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'porter l’alliance au doigt:  koláta (lo)mpɛ́tɛ́  na mosapi. '
+      }, {
+        francais: 'allié, ée  ',
+        lingala: ' -a kosangana, moníngá, basangani ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'des pays alliés; la victoire des alliés : bikólo bya kosangana ; lilónga (elónga) lya (ya) basangani.        '
+      }, {
+        francais: 'allier  ',
+        lingala: ' kosangisa, kosanginya ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) allier l’intelligence à la beauté : kosangisa mayɛ́lɛ ná kitoko. 2) s’allier contre un ennemi commun : kosangana mpo ya kobuna na mongúná.        '
+      },
+      {
+        francais: 'alligator   ',
+        lingala: ' ngandó, koli ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'adroit, oite   ',
+        lingala: ' -a ntoki ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
       },
       {
         francais: 'adroit, oite   ',
