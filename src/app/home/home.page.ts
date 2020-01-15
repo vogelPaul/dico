@@ -3889,7 +3889,313 @@ export class HomePage {
       },
       {
         francais: 'animal, aux    ',
+        lingala: ' nyama ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'l’homme est un animal qui parle et qui rit : moto azalí nyama akolobaka mpé akosɛkɛkɛ'
+      },
+      {
+        francais: 'animal, aux    ',
+        lingala: 'bonyama, bozóba ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'comportement animal, fureur animale : ezaleli ya nyama, nkándá ya nyama, bonyama, bozóba.        '
+      },
+      {
+        francais: 'animalité   ',
+        lingala: ' bonyama, bozóba  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'animateur, trice    ',
+        lingala: 'motámbwisi, mosepelisi, animatɛ́lɛ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'animateur de télévision : animatɛ́lɛ wa televizyó. '
+      }, {
+        francais: 'animation   ',
+        lingala: ' bosepeli ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'animation d’une fête : bosepeli bwa eyenga. '
+      }, {
+        francais: 'animé, ée    ',
+        lingala: ' -a bomoi, -a koningana,(e)koningana  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1)un être animé : ekela ya bomoi. 2) un dessin animé : liyemi lya koningana '
+      }, {
+        francais: 'animé, ée    ',
+        lingala: '  -kási, -a loyengé   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' une rue animée : balabála ya loyengé '
+      }, {
+        francais: 'animer   ',
+        lingala: ' kopésa bomoi',
+        // tslint:disable-next-line: max-line-length
+        exemple:' animer un corps inerte : kopésa nzóto ekuáfá '
+      }, {
+        francais: 'animer    ',
+        lingala: ' kotíya loyengé, kotíya molungé, kokamba',
+        // tslint:disable-next-line: max-line-length
+        exemple:' la foi ou l’amour l’anime : kotíya molungé na fɛ́ti, na lisolo, na emisyó'
+      }, {
+        francais: 'animer',
+        lingala: ' kokamba, kolakisa',
+        // tslint:disable-next-line: max-line-length
+        exemple:' la foi ou l’amour l’anime : boyambi tô bolingo ezalí kokamba ye'
+      },{
+        francais: 'animer',
+        lingala: '  kolamuka ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) le village s’anime à 6heures : mbóka elamukaka na ngonga ya 6. 2) ses yeux s’animent quand il parle : miso ma ye mafungwamaka ntángo alobaka'
+      },{
+        francais: 'ankylose   ',
+        lingala: ' akilose ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'ankyloser    ',
+        lingala: ' koboma binama ,kokúfa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) ankyloser une jambe : koboma lokolo. 2)  ma jambe s’ankylose :  lokolo la ngáí lokúfí.'
+      }, {
+        francais: 'ankylostom   ',
+        lingala: ' akilositomi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'anneau   ',
+        lingala: '  ekomo, lompɛ́tɛ́,mpɛ́tɛ́ ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) les anneaux d’une chaîne : mpɛ́tɛ́  ya monyololo. 2) anneau de mariage, de fiançailles : lompɛ́tɛ́la libála.        '
+      }, {
+        francais: 'année   ',
+        lingala: ' mbúla, mobú  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'je ne l’ai pas revu depuis des années : namoní ye te mbúla ebelé.        '
+      }, {
+        francais: 'annexe   ',
+        lingala: 'libakisi,abakisi,-a nsima  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une école annexe :  etéyelo ya nsima.         '
+      }, {
+        francais: 'annexer    ',
+        lingala: '  kokangisa, kobándisa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) annexer un document à un dossier : kokangisa mokandá na dosyé.        '
+      }, {
+        francais: 'annexion    ',
+        lingala: ' bokangisi, bozwi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'anniversaire   ',
+        lingala: '-a bokundoli  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) une fête anniversaire : eyenga ya bokundoli. 2) c’est mon anniversaire (de naissance) : lelo eye ezalí bokundoli (mokolo na bótámákí ) mbótáma ya ngáí.         '
+      }, {
+        francais: 'annonce    ',
+        lingala: 'sango,liyébisi,elembo',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) faire passer une annonce à la radio : kolekisa sango na ladyó. 2) la cigale annonce la saison sèche : lilélé lizalí elembo ya elanga        '
+      }, {
+        francais: 'annoncer   ',
+        lingala: ' kosangela, kosakola  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'annoncer une bonne ou une mauvaise nouvelle : kosangela sango elámu tô ebé'
+      }, {
+        francais: 'annoncer  ',
+        lingala: '  kolakisa, komÔ¡nisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'les nuages annoncent la pluie ; la cloche annonce la fin des cours :  mapatá makolakisa te mbúla ezalí koyâ ; ngonga ekolakisa te matéya '
+      }, {
+        francais: ' komonono, koyébana    ',
         lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'son intelligence s’annonce précoce :  mayɛ́lɛ ma ye mamononí mbángu (na bomwana).         '
+      }, {
+        francais: 'annuel, elle   ',
+        lingala: ' -a mbúla yoko,-a mbúla ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) un contrat annuel : kontalá ya mbúla yoko. 2) un impôt annuel: mpáko ya mbúla        '
+      }, {
+        francais: 'annulaire   ',
+        lingala: 'mosapi mwa mínei mwa loboko',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, 
+      {
+        francais: 'annulaire   ',
+        lingala: ' mosapi mwa lompɛ́tɛ ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'annulation   ',
+        lingala: 'bobomi,bozímisi,bolongoli  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'annulation d’une élection : bobomi boponi.'
+      }, {
+        francais: 'annuler    ',
+        lingala: 'kolongola, koboma  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'annuler une élection, une invitation : koboma boponi, mbélá'
+      }, {
+        francais: 'annuler  (se neutraliser )  ',
+        lingala: 'kobomana, kolongolana  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'deux forces égales et opposées s’annulent : nguyá íbalé ikokání mpé ikútútání ikobomana.'
+      },{
+        francais: 'ânonner    ',
+        lingala: ' kotatabana na bolobi, na botángi, na bosakoli ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'un élève qui ânonne : moyékoli azalí kotatabana na bolobi, na botángi, mpé na bosakoli.        '
+      }, {
+        francais: 'anonyme   ',
+        lingala: ' (e)-zángá nkómbó  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'écrivain anonyme, lettre anonyme :  mokomi azángá nkómbó, mokandá mozángá mokomi.'
+      }, {
+        francais: 'anorexie   ',
+        lingala: ' bozángi mpósá ya biléi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'cet enfant souffre d’anorexie : mwana óyo azángí mpósá ya kolíya.        '
+      }, {
+        francais: 'anormal, ale, aux     ',
+        lingala: ' -lámu tɛ́, -a kokámwa, (e)longóbání tɛ́',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une pluie anormale en pleine saison sèche : mbúla elongóbání tɛ́na elanga.'
+      }, {
+        francais: 'anse   ',
+        lingala: 'esímbele ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'anse d’un vase, d’un panier : esimbele ya eloko, ya kitúnga.        '
+      }, {
+        francais: 'antagonisme   ',
+        lingala: ' bombanda  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'antagoniste   ',
+        lingala: ' -a bombanda, -a lisolongo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'forces antagonistes : nguyá ya lisolongo :  bangúná bazalí kondongbana. '
+      }, {
+        francais: 'antenne    ',
+        lingala: '  monzombá, antɛ́ni  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' antennes de l’escargot : minzombá mya mbɛmbɛ́. 2)  antenne de télévision : monzombá (tô antɛ́ni ya) mwa televizyó. '
+      }, {
+        francais: 'antérieur, eure   ',
+        lingala: '  -a yambo, -a libosó,binama  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) un événement antérieur à un autre :  likambo lya yambo lya lisúsu.2) membres antérieurs (tête, pattes de devant chez les animaux horizontaux) :  bya yambo ( motó, makolo ma libosó mpo ya nyama ilálá sémba).        '
+      }, {
+        francais: 'anthropomorphe   ',
+        lingala: ' un singe anthropomorphe ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'nkéma ya loléngé la moto.'
+      }, {
+        francais: 'anthropophage   ',
+        lingala: ' moléi bato  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'anthropophagie   ',
+        lingala: ' boléi bato  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'antibiotique    ',
+        lingala: ' atíbyotíki ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'la pénicilline est un antibiotique : peniselínɛ ezalí atibyotíke.        '
+      }, {
+        francais: 'anticiper    ',
+        lingala: 'koyâ libosó,kosálela libosó,kowélisa',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1)  anticiper un paiement : kofúta libosó, lifúta liyéi libosó.2)  anticiper sur ses revenus :kosálela mbongo ya ye libosó. 3) n’anticipons pas !:  tówélisa tɛ́.        '
+      }, {
+        francais: 'antidote   ',
+        lingala: '  lisengoli,mono',
+        // tslint:disable-next-line: max-line-length
+        exemple:'la lecture est un antidote contre l’ennui : botángi bozalí m¡nÔ¡mwa mpi.'
+      }, {
+        francais: 'antilope    ',
+        lingala: 'mbólókó,nzumba,mondonga  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'viande d’antilope : mosuni mwa mbólókó.'
+      }, {
+        francais: 'antipathie    ',
+        lingala: ' boyini',
+        // tslint:disable-next-line: max-line-length
+        exemple:' avoir de l’antipathie pour qqn :kozala na boyini ya moto        '
+      }, {
+        francais: 'antiquaire   ',
+        lingala: ' motɛ́ki bya kala  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'mon frère est antiquaire: ndeko wa ngáí azalí motÔ¥ki bya kala.'
+      }, {
+        francais: 'antique   ',
+        lingala: ' -a kala kala  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une statuette antique :  ekeko ya kala kala.         '
+      }, {
+        francais: 'antiquité   ',
+        lingala: '  eleko ya kala  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) antiquité égyptienne : eleko ya kala ya Ezípeti. 2) antiquités africaines, gréco-latines : bya kala bya Afríka, bya Grɛ́ki mpé Latíno        '
+      }, {
+        francais: 'antiseptique   ',
+        lingala: ' atísepitíki ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' l’alcool éthylique est un antiseptique: alikolɛ ezalí atísepitíkí.        '
+      }, {
+        francais: 'antivol    ',
+        lingala: ' epekisa moyíbi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'un antivol pour vélo, des installations antivol : epekisa moíbi ya nkínga,bipekisa moyíbi'
+      }, {
+        francais: 'anus  ',
+        lingala: ' monyutu, mosómbá',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'anxiété  ',
+        lingala: ' somo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' attendre avec anxiété : kozela na somo'
+      }, {
+        francais: 'août   ',
+        lingala: ' sánzá ya mwambe,agúsito  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'je viendrai en août : nakoyâ na sánzá ya mwambe.'
+      }, {
+        francais: 'apaiser ',
+        lingala: ' kobondɛlɛ, kokitisa,kolɛmbisa,kolɛmbɛ  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) apaiser un enfant :  kobondɛlɛ mwana. 2)  l’enfant s’est apaisé : mwana alɛmbí.        '
+      }, {
+        francais: 'apatam    ',
+        lingala: ' lingongo  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'s’abriter sous l’apatam : kobómbama na lingongo.'
+      }, {
+        francais: 'apercevoir    ',
+        lingala: ' kokɛsɛnisa na mosíká ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'j’aperçois une étoile: nazalí kokɛsɛnisa  monzóto na mosíká'
+      },
+      {
+        francais: 'apercevoir    ',
+        lingala: '  koyéba  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'il s’aperçoit de son erreur: ayébí mbéba na ye'
+      },
+      {
+        francais: "apercevoir (s') ",
+        lingala: '  komimono  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) je m’aperçois dans un miroir : azalí komímono na talatála. 2) tomononokí na balabála.        '
+      },
+      {
+        francais: 'apéritif   ',
+        lingala: ' epésa-nzala  ',
         // tslint:disable-next-line: max-line-length
         exemple:''
       },
@@ -3897,253 +4203,15 @@ export class HomePage {
         francais: 'amoureux, euse    ',
         lingala: ' -a bolingo ',
         // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
+        exemple:'prendre le whisky comme apéritif : komɛlɛ wisikí bó epésa-nzala        '
+      },
+      {
         francais: 'amoureux, euse    ',
         lingala: ' -a bolingo ',
         // tslint:disable-next-line: max-line-length
         exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      }, {
+      },
+      {
         francais: 'amoureux, euse    ',
         lingala: ' -a bolingo ',
         // tslint:disable-next-line: max-line-length
