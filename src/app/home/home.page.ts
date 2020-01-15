@@ -651,18 +651,13 @@ export class HomePage {
       },
       {
         francais: 'accalmie   ',
-        lingala: 'lilei, lizímbi  ',
+        lingala: 'kímyá, bobóto  ',
         // tslint:disable-next-line: max-line-length
         exemple:''
       },
+
       {
-        francais: 'kímyá, bobóto, nye  ',
-        lingala: 'lilei, lizímbi  ',
-        // tslint:disable-next-line: max-line-length
-        exemple:''
-      },
-      {
-        francais: 'aaccaparer   ',
+        francais: 'accaparer   ',
         lingala: 'kowéla, kopunza, kozwa na nkó  ',
         // tslint:disable-next-line: max-line-length
         exemple:''
@@ -2700,7 +2695,7 @@ export class HomePage {
         francais: 'alcool   ',
         lingala: 'masanga ma mÔ¡t¡, masanga makás',
         // tslint:disable-next-line: max-line-length
-        exemple:' boire de l’alcool : kom¥l¥ lotoko.'
+        exemple:' boire de l’alcool : komɛlɛ lotoko.'
       }, {
         francais: 'alcoolique  ',
         lingala: '  -a lotoko, -a ngbáko, -a alikolɛ  ',
@@ -2708,7 +2703,7 @@ export class HomePage {
         exemple:''
       }, {
         francais: 'alcoolique  ',
-        lingala: '   molángi, molángwi, mom¥li-masanga  ',
+        lingala: '   molángi, molángwi, momɛli-masanga  ',
         // tslint:disable-next-line: max-line-length
         exemple:'une personne alcoolique : molángwi, molángi masanga.        '
       },
@@ -2884,7 +2879,7 @@ export class HomePage {
         exemple:' 1) aller à pied : kokɛndɛ na makolo. 2) aller bien:  kozala malámu. 3) il faut s’en aller: esɛngɛ́li kokɛndɛ        '
       }, {
         francais: 'allergie  ',
-        lingala: ' nzóto ebóyi, al¥l¥zí ',
+        lingala: ' nzóto ebóyi, alɛlɛzí ',
         // tslint:disable-next-line: max-line-length
         exemple:' allergie au champignon : nzóto ebóyi mákombó, alɛlɛzi na mákombó.        '
       }, {
@@ -2921,14 +2916,1236 @@ export class HomePage {
         exemple:''
       },
       {
-        francais: 'adroit, oite   ',
-        lingala: ' -a ntoki ',
+        francais: 'allocation   ',
+        lingala: ' bopési,  mosolo, mbongo  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) allocation d’un prêt :bopési nyongo . 2)  allocations familiales : mosolo mwa libóta        '
+      },
+      {
+        francais: 'allocution   ',
+        lingala: ' mwâ lísikúlu ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'prononcer une allocution : koloba mwâ lísikúlu         '
+      },
+      {
+        francais: 'allonger  ',
+        lingala: '  konanola, koninola, kosémbola',
+        // tslint:disable-next-line: max-line-length
+        exemple:' 1) allonger un pantalon, une conversation : kobénda potaló / pataló, kobénda lisoló. 2) allonger les jambes : kosémbola (konanola/koninola) makolo.'
+      },
+      {
+        francais: 'allonger  ',
+        lingala: '   kobéndana, komísémbola, komílálisa, komínanola, komíninola, ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' 1)  en février les jours allongent: na sánzá ya míbalé mikolo mibéndanaka. 2)s’allonger par terre : komísembola na mabelé.'
+      },
+      {
+        francais: 'allumage   ',
+        lingala: ' bopeli, bopelisi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'allumage d’un moteur : bopelisi mótɛ́lɛ, bopeli bwa mótɛ́lɛ.         '
+      },
+      {
+        francais: 'allumer   ',
+        lingala: '  kopelisa, kobambola, kololisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) allumer une cigarette, une bougie :  kopelisa likáyá, kopelisa buzí. 2) allumer une ampoule électrique : kopelisa mwínda mwa lotilíki'
+      },
+      {
+        francais: 'allumer   ',
+        lingala: '  kofungola, kopelisa, kotámbwisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1)  allumer la radio :  kofungola (kopelisa, kotámbwisa) ladyó. 2) l’ampoule s’allume : ampúlu epelí. 3)  '
+      },
+      {
+        francais: 'allumer    ',
+        lingala: '  kopela, kotámbola ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) la voiture ne s’allume pas : mótuka mozalí kotámbola tɛ́, mótuka mozalí kopela tɛ́.        '
+      },
+      {
+        francais: 'allumette   ',
+        lingala: ' zalimɛ́ti, alimɛ́ti ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'acheter un paquet d’allumettes : kosó mba ekpokoso ya zalimɛ́ti        '
+      },
+      {
+        francais: 'allumeur, euse  ',
+        lingala: 'epelisi,mopelisi, molaso ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) allumeur d’une bombe :  epelisi mózinga, epelisi bombi. 2)  cette fille est une allumeuse: mwana mwasí óyo azalí mopelisi        '
+      },
+      {
+        francais: 'allure   ',
+        lingala: ' (lo)mbángo, (lo)mbángu ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' 1) courir à toute allure : kokíma mbángo. 2)  la discussion prend l’allure d’une dispute : ntembe ezwí elongi ya boswáni        '
+      },
+      {
+        francais: 'alluvions  ',
+        lingala: ' potopot0 ',
         // tslint:disable-next-line: max-line-length
         exemple:''
       },
       {
-        francais: 'adroit, oite   ',
-        lingala: ' -a ntoki ',
+        francais: 'alors   ',
+        lingala: ' bá, ntángo êná, ntángo wâná, bébe ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) alors il est entré : akoti na ntángo êná '
+      },
+      {
+        francais: 'alors   ',
+        lingala: 'sokí, soko bôngó, mbɛlɛ, kana, ndé  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'tu es ici alors que je te cherche partout: yo ozalí áwa nzókandé nazalí koluka yo bisíká bínso.        '
+      },
+      {
+        francais: 'alourdir   ',
+        lingala: ' kopésa bozitó, kokólisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'  alourdir un fardeau, une peine : kopésa bozitó na mokúmba, kobakisa kiló na mokúmba, kokólisa etúmbu.'
+      },
+      {
+        francais: 'alourdir    ',
+        lingala: ' koyâ bozitó, koyâ kiló',
+        // tslint:disable-next-line: max-line-length
+        exemple:'le fardeau s’alourdit : mokúmba moyéi bozitó (kiló).'
+      },
+      {
+        francais: 'alourdissement  ',
+        lingala: 'bozitó',
+        // tslint:disable-next-line: max-line-length
+        exemple:'alourdissement d’une peine :  bobakisi etúmbu, bokólisi etúmbu.'
+      },
+      {
+        francais: 'alphabet    ',
+        lingala: ' afabé, alofabé, abésé ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'apprendre l’alphabet du français : koyékola afabé ya falasé.        '
+      },
+      {
+        francais: 'alphabète   ',
+        lingala: ' moyébi-minkandá, moyébimikomá ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'alphabétisation ',
+        lingala: ' botángisi mikomá, bolakisi minkandá ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' '
+      },
+      {
+        francais: 'alphabétisé, ée  ',
+        lingala: ' moto wa mokandá, moyébi afabé, moyébi   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'alphabétiser   ',
+        lingala: ' kotángisa kokoma mpé kotánga ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'alphabétiser   ',
+        lingala: 'koyékwisa kokoma mpé kotánga ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'alphabétiseur, euse   ',
+        lingala: ' moyékwisi mikomá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'alphabétiseur, euse   ',
+        lingala: ' motángisi mikomá, molakisi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'altercation  ',
+        lingala: ' bondongbani,bondongwani, boswáni ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'le soleil altère les couleurs :  mói mobébisa lángi'
+      },
+      {
+        francais: 'altercation  ',
+        lingala: '  kopésa mpósá, kobénga mpósá ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'altérer   ',
+        lingala: '  kobébisa',
+        // tslint:disable-next-line: max-line-length
+        exemple:'le soleil altère les couleurs :  mói mobébisa lángi'
+      },
+      {
+        francais: 'altérer   ',
+        lingala: ' kopésa mpósá, kobénga mpósá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) la course m’a altéré : mbángu epésí ngáí mpósá ya mái. 2)  les couleurs se sont altérées : lángi ikómí mabé       '
+      },
+      {
+        francais: 'alternance    ',
+        lingala: ' líkelemba, ngala ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' alternance des saisons : líkelemba ya bileko.        '
+      },
+      {
+        francais: 'alternateur   ',
+        lingala: ' atɛnatɛ́lɛ  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'alternative   ',
+        lingala: ' boponi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'alterner   ',
+        lingala: ' kokitana, kosála líkelemba ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'les uniformes rouges alternent avec les verts : inifomɛ itáné ikitáni iye ya lángi ya mái ma mpondú'
+      },
+      {
+        francais: 'alterner   ',
+        lingala: ' kokitanisa, kokitinya ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'alterner les uniformes rouges avec les verts: kokitanisa tô kokitinya inifomɛ itáné na iye ya lángi ya mái ma mpondú        '
+      },
+      {
+        francais: 'aluminium  ',
+        lingala: ' aliminyomɛ  ',
+        // tslint:disable-next-line: max-line-length
+      exemple:'des tôles en aluminium : mánzanza ma aliminyomɛ.  '
+      },
+      {
+        francais: 'amabilité  ',
+        lingala: ' bobóto ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'merci de votre amabilité ! : botondi (mɛlɛsí) mpo ya bobóto bwa bínó'
+      },
+      {
+        francais: 'amadouer   ',
+        lingala: ' kolɛ́tɛ, kobondɛlɛ  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'amaigrir   ',
+        lingala: ' kokondisa, kotungisa,kokondo  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' tu t’es beaucoup amaigri : okondí míngi, otungí makási, okondí makási.   '
+      },
+      {
+        francais: 'amaigrissement   ',
+        lingala: ' bokondi, botungi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'faire une cure d’amaigrissement : kolanda tô komɛlɛ nkísi mpo ya bok¡ndi.        '
+      },
+      {
+        francais: 'amalgame  ',
+        lingala: 'lisangisi,lisanginyi,ptopoto ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' un amalgame de couleurs : lisangisi lya lángi ndéngé na ndéngé.        '
+      },
+      {
+        francais: 'amalgamer  ',
+        lingala: ' kosangisasangisa,kosanganasangana ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) amalgamer des couleurs : kosangisasangisa lángi ndéngé na ndéngé. 2) les couleurs peuvent s’amalgamer :  lángi ikokí kosanganasangana       '
+      },
+      {
+        francais: 'amande   ',
+        lingala: 'mondiká, ndiká  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1)un gâteau aux amandes : gató esálémí (elámbémí) na ndiká. 2)  graine comestible, riche en huile :mbuma ya kolíya etondá mafúta. 3)  fruit de l’amandier: mbuma ya mádamɛ́      '
+      },
+      {
+        francais: 'amandier  ',
+        lingala: ' mádamɛ́',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) arbre produisant l’amande:  mweté (nzeté) eye ebótaka tô ebimisaka. 2) planter un amandier : kolóna mádamɛ́.  '
+      },
+      {
+        francais: 'amant, ante   ',
+        lingala: ' makángo, nganzi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'cette femme a un amant : mwasí óyo azalí na makángo        '
+      },
+      {
+        francais: 'amarrage  ',
+        lingala: ' bokangi mokulu, bokangi nsinga, bosɛ́misi',
+        // tslint:disable-next-line: max-line-length
+        exemple:' amarrer un bateau, une pirogue :  kokanga mokulu tô nsinga ya masúwa, ya bwâto.'
+      },
+      {
+        francais: 'amarrage  ',
+        lingala: '  bosɛ́misi',
+        // tslint:disable-next-line: max-line-length
+        exemple:' amarrer un bateau, une pirogue :  kokanga mokulu tô nsinga ya masúwa, ya bwâto.'
+      },
+      {
+        francais: 'amarre   ',
+        lingala: ' mokulu, nsinga ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'amarrer des bagages sur un véhicule : kokanga mikúmbá na mikulu likoló lya mótuka. '
+      },
+      {
+        francais: 'amarrer    ',
+        lingala: ' kokanga mokulu, kosɛ́misa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'amas   ',
+        lingala: ' líbóndo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'un amas d’ordures :  líbóndo lya bosoto.'
+      },
+      {
+        francais: 'amasser   ',
+        lingala: ' kokongolo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'amasser de l’argent : kokongolo mosolo'
+      },
+      {
+        francais: 'amasser   ',
+        lingala: ' kosangana, koyángana ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) les papiers s’amassent sur son bureau : nkásá isanganí na biló ya ye. 2) les gens s’amassent autour des lutteurs : bato basangání zóngázónga ya babuni. '
+      },
+      {
+        francais: 'amateur    ',
+        lingala: '  molingi, álingá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) un amateur de musique : molingi wa mizíki, álingá mizíki. '
+      },
+      {
+        francais: 'ambages   ',
+        lingala: ' polélé ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' parler sans ambages (= d’une manière franche et directe):  koloba polélé'
+      },
+      {
+        francais: 'ambassade   ',
+        lingala: ' etómá, ambasáde ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' l’ambassade du Congo au Mali : botóma ya Kongo na Mali'
+      },
+      {
+        francais: 'ambassadeur, drice   ',
+        lingala: '  ntómá, mongbɛ́ndɛ́, ambasadɛ́lɛ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'l’ambassadeur du Sénégal en République centrafricaine : ntóma wa Senegale na Santafríka'
+      },
+      {
+        francais: 'ambi   ',
+        lingala: ' ambí ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'vendre de l’ambi : kotɛ́kɛ ambí. '
+      },
+      {
+        francais: 'ambiance   ',
+        lingala: ' ezaleli , bisɛngo  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une ambiance agréable :  ezalelí elámu. 2) mettre de l’ambiance dans une fête : kotíya bisɛng¡ na fɛ́ti'
+      },
+      {
+        francais: 'ambiancer   ',
+        lingala: ' kosepelisa,kosakana ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) ce soir on va ambiancer : na mpókwa ya lɛlo tokosepelisa bato. 2)  il aime ambiancer les samedis : alingí kosakana mikolo mya poso.'
+      },
+      {
+        francais: 'ambianceur  ',
+        lingala: ' mosakani, ambyasɛ́lɛ  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'c’est un ambianceur : azalí mosakani'
+      },
+      {
+        francais: 'ambifier (s’)   ',
+        lingala: ' kopakola (ambí)  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'elle s’ambifie pour plaire aux hommes : apakolaka mpo babáli bálúla ye.'
+      },
+      {
+        francais: 'ambigu, uë   ',
+        lingala: ' -a molílí, -a polélé  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'un discours ambigu : lísikúlu lya polélé tɛ́.'
+      },
+      {
+        francais: 'ambiguïté   ',
+        lingala: ' molílí, polélé tɛ́ ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' un discours plein d’ambiguïté :  lisikúlu lizalí polélé tɛ́'
+      },
+      {
+        francais: 'ambitieux, euse  ',
+        lingala: '-a makambo manɛ́nɛ, -a mpósá ya bokonzi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une politique ambitieuse ; c’est un ambitieux : politíki ya makambo manɛ́nɛ ; moto wa mpósá ya bokonzi. '
+      },
+      {
+        francais: 'ambition   ',
+        lingala: '  mpósá ya lokúmu, ya bokonzi tô nkita  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) un homme plein d’ambition : moto atóndámí na mpósá ya lokúmu, ya bokonzi tô ya. 2)  son ambition est de devenir médecin : mpósá ya ye ezalí ákóma mónganga.'
+      },
+      {
+        francais: 'ambitionner   ',
+        lingala: ' kolúla ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'ambitionner le titre de ministre, ambitionner de devenir médecin : kolúla ebónga ya minístɛlɛ, kolúla kokóma mónganga.'
+      },
+      {
+        francais: 'ambulance   ',
+        lingala: ' ekúmba-bakoni, mɛmɛ-bakoni ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'ambulance  ',
+        lingala: 'mótuka-bakoni, ambilási  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'ambulancier, ère  ',
+        lingala: 'mokúmbi mótuka-bakoni,mokúmbi ambilási  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'ambulant, ante   ',
+        lingala: ' molekaleki, moyengayengi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' un marchand ambulant : motɛ́ki molekakeki, ambilá'
+      },
+      {
+        francais: 'ambulant, ante   ',
+        lingala: ' mozemazemi, ambilá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'âme  ',
+        lingala: '  molímo  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'rendre l’âme "mourir"  ',
+        lingala: 'kowâ, kokúfa, kozóngisa molímo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'amélioration   ',
+        lingala: ' bobongisi, libongisi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'amélioration des résultats scolaires : bobongisi bwa bilembo bya boyékolitô bya kelási'
+      },
+      {
+        francais: 'améliorer   ',
+        lingala: 'kobongisa, kobonga',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) améliorer ses résultats scolaires : kobongisa bilembo bya boyékoli tô bya kelási. 2) le vin s’améliore en vieillissant : víno ekobongoko sokí eúmélí.'
+      },
+      {
+        francais: 'aménager  ',
+        lingala: ' kolɛ́ngɛlɛ, kobongisa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' aménager une maison : kolɛ́ngɛlɛ ndáko'
+      },
+      {
+        francais: 'amende   ',
+        lingala: ' lománde, amándi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' payer une amende ; être condamné à 1000 francs d’amende : kofúta lománde ; kokita na lománde ya falánga 1000.'
+      },
+      {
+        francais: 'amendement  ',
+        lingala: 'libóngoli lya mobéko, lya mwángo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'voter un amendement :  kovoté libóngoli lya mobéko.'
+      },
+      {
+        francais: 'amender  ',
+        lingala: ' kobóngola mobéko  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'amer, ère   ',
+        lingala: ' bololo',
+        // tslint:disable-next-line: max-line-length
+        exemple:'la noix de cola est amère : libɛlú (likásó) ezalí bololo.'
+      },
+      {
+        francais: 'américain, aine    ',
+        lingala: '-a Amelí ka, -a Amelí ki ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' la politique américaine ; un Américain noir : politíki ya Amelíka ; moí-Amelíka moíndo.'
+      },
+      {
+        francais: 'américani   ',
+        lingala: ' molekáni, malekáni ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'acheter un mètre d’américani : kosómba mɛ́tɛlɛ yoko ya malekáni (molekáni). '
+      },
+      {
+        francais: 'Amérique   ',
+        lingala: ' Amelíki,Amelíka, Ekólo ya Amelíki  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'aller en Amérique : kok¥nd¥ na (ekólo ya) Amelíki.'
+      },
+      {
+        francais: 'amerrir   ',
+        lingala: 'kokita na maí ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' le vaisseau spatial amerrit :  mpɛ́p¡ ekití likoló lya mái.'
+      },
+      {
+        francais: 'amertume   ',
+        lingala: 'bololo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'l’amertume du café sans sucre : bololo ya káwa ezángi sukáli.'
+      },
+      {
+        francais: 'ameublement   ',
+        lingala: ' kotombokisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' ameuter la foule : kot¡mb¡kisa bato.'
+      },
+      {
+        francais: 'ami, ie  ',
+        lingala: '  moníngá, móníngá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'un ami d’enfance : moníngá wa bomwÉana'
+      },
+      {
+        francais: 'ami, ie   ',
+        lingala: ' -a moníngá, -a bondeko ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) une maison amie :  ndáko ya bondeko. 2) des troupes amies : mampingá ma bondeko.'
+      },
+      {
+        francais: 'amiable (à l’)  ',
+        lingala: ' na bosámbani, na bondeko ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' régler un litige à l’amiable : kobongisa likambo na boyókani, na kímyá.'
+      },
+      {
+        francais: 'amibe   ',
+        lingala: ' amíbɛ  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'amical, ale, aux   ',
+        lingala: ' -a bondeko ,  -a bondeko ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) un conseil amical :  tolí ya bondeko. 2)  un match amical : lisano lya ndembó lya bondeko.'
+      },
+      {
+        francais: 'amicalement    ',
+        lingala: 'na bondeko ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'amidon   ',
+        lingala: ' amidó ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'l’amidon rigidifie le col de chemise :  amidó ekómisaka nkíngó ya simísi makási.'
+      },
+      {
+        francais: 'amidonner ',
+        lingala: ' kotíya amidó  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'amidonner une chemise : kotíya amidó na simísi, kotíya simísi amidó'
+      },
+      {
+        francais: 'amincir  ',
+        lingala: ' kokondisa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'amincir la taille : kokondisa lokéto. kokÔ¡nd¡ '
+      },
+      {
+        francais: 'amitié  ',
+        lingala: ' bondeko, boníngá  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une grande amitié lie ces deux personnes : bato bábalé baye bazalí na bondeko bokási'
+      },
+      {
+        francais: 'amnistie   ',
+        lingala: ' bolímbisi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'amnistie politique : bolímbisi bwa baí-politíkí.'
+      },
+      {
+        francais: 'amnistier   ',
+        lingala: ' kolímbisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'amocher  ',
+        lingala: ' kobébisa',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'amoindrir  ',
+        lingala: ' kokitisa, kokútola',
+        // tslint:disable-next-line: max-line-length
+        exemple:' l’alcool amoindrit l’intelligence : masanga makútolaka mayɛ́lɛ'
+      },
+      {
+        francais: 'amoindrir  ',
+        lingala: ' kokita, kokútwa',
+        // tslint:disable-next-line: max-line-length
+        exemple:' ses forces se sont amoindries : bokási bwa ye bokútwé'
+      },
+      {
+        francais: 'amoindrissement  ',
+        lingala: ' bokútwi, bokiti, bokondi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'amollir   ',
+        lingala: ' kolɛmbisa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'la chaleur amollit le beurre : molungé molɛmbísaka matéka.'
+      },
+      {
+        francais: 'amollissement   ',
+        lingala: ' bolɛmbisi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'amonceler   ',
+        lingala: 'kotíya líbóndo, kosangisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'amonceler des feuilles : kosangisa nkásá'
+      },
+      {
+        francais: 'amoncellement   ',
+        lingala: ' bosangisi, bosanginyi',
+        // tslint:disable-next-line: max-line-length
+        exemple:'amoncellement des feuilles : bosangisi nkásá'
+      },
+      {
+        francais: 'amont   ',
+        lingala: ' likoló, monano  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'Kisangani est en amont de Kinshasa sur le fleuve Congo :  Kisangani ezalí na likoló (monano) ya Kisásá.'
+      },
+      {
+        francais: 'amorphe    ',
+        lingala: ' -tau, pɛtɛpɛtɛ, -a kolɛmbɛ  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'amortir   ',
+        lingala: ' kolɛ́mbisa, kofúta malɛ́mbɛ malɛ́mbɛ,kolɛmbɛ ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) amortir un coup, un ballon :kolɛmbisa likofi, bále. 2)  amortir une dette : kofúta nyongo malɛ́mbɛ malɛ́mbɛ. 3) un choc qui s’amortit :lobɛ́tɛ lolɛmbí'
+      },
+      {
+        francais: 'amortisseur   ',
+        lingala: ' elɛmbisi, amotisɛ́lɛ  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'les amortisseurs d’une automobile : bilɛmbisi bya mótuka, amotisɛ́lɛ  ya mótuka. '
+      },
+      {
+        francais: 'amour  ',
+        lingala: ' bolingo,  molíngamí ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) mon amour : bolingo wa ngáí. 2) amour de Dieu, du prochain, de la patrie :  bolingo ôná Nzámbe, bolingo bwa (ôná) moto, bolingo bwa (ôná) ekólo. 3) amour de la musique : bolingo ôná mizíki/bolinga bwa mizíki. '
+      },
+      {
+        francais: 'amouracher (s’)  ',
+        lingala: ' kolúla, kokpéya ndɛkɛ, kokpéya mayanga ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'s’amouracher pour une fille : kolúla mwana-mwasí'
+      },
+      {
+        francais: 'amoureusement   ',
+        lingala: ' na bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'regarder amoureusement : kotála na bolingo '
+      },
+      {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) des regards amoureux : miso ma bolingo. 2) être, tomber amoureux de qqn : kolinga moto, kokwéya mayanga, kokwéya ndɛkɛ. 3) c’est ton amoureux : bolingo wa yo ye wâná.'
+      },
+      {
+        francais: 'amour-propre   ',
+        lingala: ' bomílingi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'ne pas faire une bêtise par amour-propre :  kosála bozóba te mpo ya bomílingi'
+      },
+      {
+        francais: 'amovible   ',
+        lingala: ' -a kotíndama epái esúsu ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'un fonctionnaire amovible : mosáli wa letá wa (ya) kotíndama epái esúsu.'
+      },
+      {
+        francais: 'amphore     ',
+        lingala: ' elokó, lilokó, mbɛ́ki ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'ampleur    ',
+        lingala: ' bonɛ́nɛ, bolaí  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'ampleur d’un vêtement, d’un événement : bonɛ́nɛ bwa elambá, bonɛ́nɛ bwa likambo.'
+      },
+      {
+        francais: 'amplifier    ',
+        lingala: ' kokólisa, komatisa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'amplifier le son de la musique : komatisa loláká la mizíki'
+      },
+      {
+        francais: 'ampli(ficateur)    ',
+        lingala: ' ekólisele',
+        // tslint:disable-next-line: max-line-length
+        exemple:'connecter les hauts-parleurs à l’ampli : kokangisa egángisele loláká na ekólisele loláká. '
+      },
+      {
+        francais: 'ampoule    ',
+        lingala: ' mwâ molangi mwa nkísi, ampúlɛ ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' avaler une ampoule d’antibiotique : komɛlɛ mwâ molangi mwa nkísi mwa atibyotíki. '
+      },
+      {
+        francais: 'ampoule    ',
+        lingala: '  mwínda mwa lotolíki,ampúlɛ  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) l’ampoule a sauté: mwínda mwa lotilíki mozíkí. 2)  '
+      },
+       {
+        francais: 'ampoule    ',
+        lingala: '   litoba, litútú ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' avoir une ampoule au pied : kobima litoba na litámbí (lokolo), kozala na litoba na litámbí.  '
+      },
+      {
+        francais: 'amputation   ',
+        lingala: ' bokáti, bozéngi, boténi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' amputation d’un bras: bokáti loboko.'
+      },
+      {
+        francais: 'amputer   ',
+        lingala: 'kokáta, koténa, kozénga  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'amputer un bras à qqn : kokáta moto loboko.'
+      },
+      {
+        francais: 'amulette    ',
+        lingala: ' nkísi, bweté, mono, ebíkisele  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'porter une amulette au cou :  koláta bweté'
+      },
+      {
+        francais: 'amusant, ante    ',
+        lingala: ' -a kosepelisa, -a lisano ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une histoire amusante : lisoló lya kosepelisa.'
+      },
+      {
+        francais: 'amuse-gueule     ',
+        lingala: 'esepelisi monoko, mízegɛ́lɛ  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' jouer au football est un amusement : kosana ndembó (motópé) ezalí lisepeli.'
+      },
+      {
+        francais: 'amusement',
+        lingala: 'lisano, bosepeli, lisepeli   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' jouer au football est un amusement: kosana ndembó (motópé) ezalí lisepeli.'
+      },
+      {
+        francais: 'amuser    ',
+        lingala: ' kosepelisa, kosɛkisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'amuser les enfants :  kosepelisa bana'
+      },
+      {
+        francais: 'amuser    ',
+        lingala: 'kosepela,kosakana,kossɛksɛ ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'s’amuser à danser: kosepela na kobína'
+      },
+      {
+        francais: 'an   ',
+        lingala: ' mobú, mbúla  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'un enfant de 10 ans :  mwana wa mibú zómi.'
+      },
+      {
+        francais: 'anaconda   ',
+        lingala: ' ngúma, anakonda  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'analyse   ',
+        lingala: ' likákoli  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'analyse d’un événement : likákoli lya likambo. 2) analyse d’une phrase : likákoli lya lisakola'
+      },
+      {
+        francais: 'ananas    ',
+        lingala: ' linanási, ananási  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'manger un ananas : kolyá linanási.'
+      },
+      {
+        francais: 'ananeraie   ',
+        lingala: ' elanga ya mananási  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'anarchie   ',
+        lingala: ' mobúlungano, mobúlú  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'anatomie   ',
+        lingala: ' anatomí ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'anatomie du corps humain : anatomí ya nzóto ya moto'
+      },
+      {
+        francais: 'ancestral, ale, aux   ',
+        lingala: ' -a bankoko',
+        // tslint:disable-next-line: max-line-length
+        exemple:'coutumes ancestrales :  mimɛsɛno mya bankoko.'
+      },
+      {
+        francais: 'ancêtre    ',
+        lingala: ' nkoko  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' les coutumes de nos ancêtres :  mimɛsɛno mya bankoko ba bísó.'
+      },
+      {
+        francais: 'ancien, enne     ',
+        lingala: '  -a kala, nkúmú(mutu ya kala) ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) Une maison ancienne :  ndáko ya kala. 2) un ancien député :  depité wa kala. 3)Les anciens du village : bankúmu ba mbóka'
+      },
+      {
+        francais: 'ancienneté   ',
+        lingala: 'bokala, boúmeli  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1)ancienneté d’une coutume: bokala ya bonkoko. 2) avancement à l’ancienneté :mpɛ́tɛ́ ya boúmeli.'
+      },
+      {
+        francais: 'ancre   ',
+        lingala: ' lóngo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'l’ancre d’un bateau : lóngo la masúwa.'
+      },
+      {
+        francais: 'ancrer   ',
+        lingala: ' kokotisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' ancrer une idée dans la tête de qqn : kokotisa likanisi na móto ya moto.'
+      },
+      {
+        francais: 'âne, esse    ',
+        lingala: ' púnda,elémá(moto wa mayɛ́lɛ́tɛ́)',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'anéantir    ',
+        lingala: 'koboma, kolongola, kosílisa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' les sauterelles ont anéanti les récoltes :mapalela masílísí bilanga nyonso.'
+      },
+      {
+        francais: 'anéantissement    ',
+        lingala: ' bosílisi, bobomi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'anéantissement d’une ville : bobomi engumba'
+      },
+      {
+        francais: 'anecdote   ',
+        lingala: 'lisoló, lisapo  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'je vais vous raconter une petite anecdote : nako betela bino lisolo moko'
+      },
+      {
+        francais: 'anémie   ',
+        lingala: ' bosíli makilá, anamí  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' un enfant atteint d’anémie : mwana asílí (asíla) makilá. '
+      },
+      {
+        francais: 'ânerie   ',
+        lingala: 'bolémá,bonyama,bozóba   ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' il raconte des âneries :  azalí koloba makambo ma (ya) bolémá (bozóba ).'
+      },
+      {
+        francais: 'anesthésie     ',
+        lingala: ' eboma -nzóto, anetezí ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'anesthésie totale (avec perte de conscience): eboma-nzóto mobimba (na bobúngisi mayɛ́lɛ). '
+      },
+      {
+        francais: 'ange   ',
+        lingala: '  ánzelú  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'les anges sont les messagers de Dieu : banzelú bazalí bantómá ba Nzámbe. 2) tu es un ange : ozalí ánzelú'
+      },
+      {
+        francais: 'angélique   ',
+        lingala: ' -a ánzelú  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' gentillesse angélique :  bobóto bwa ánzelú.'
+      },
+      {
+        francais: 'angine   ',
+        lingala: 'anzíne, mpenzá mongóngó ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'attraper une angine: kozwa anzíne, kobɛ́lɛ anzíne.'
+      },
+      {
+        francais: 'anglais, aise',
+        lingala: ' angelé ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'angle   ',
+        lingala: ' litúmu, mbata ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' 1) angle d’un mur :  litúmu lya efelo. 2) un angle droit (dont les deux côtés sont perpendiculaires): mbata sémba.'
+      },
+      {
+        francais: 'Angleterre    ',
+        lingala: ' ekólo ya baangelé  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'angoissant, ante    ',
+        lingala: ' -a somo, -a bobángi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' une histoire angoissante :  lisoló lya somo'
+      },
+      {
+        francais: 'angoisse    ',
+        lingala: ' somo, bobángi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'angoisse des examens : somo ya mimekano.'
+      },
+      {
+        francais: 'angoisser     ',
+        lingala: ' kobángisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' l’approche des examens l’angoisse : bobɛlɛmi bwa mimekano bozalí kobángisa ye.'
+      },
+      {
+        francais: 'Angola    ',
+        lingala: ' Angolá ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'aangolais, aise   ',
+        lingala: ' -a angolá,moí-angolá,mwanambóka wa Angolá',
+        // tslint:disable-next-line: max-line-length
+        exemple:' le peuple angolais, les Angolais : bÉana-mbóka ba Angolá.'
+      },
+      {
+        francais: 'anguille    ',
+        lingala: ' nzombo, bowayó  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'animal, aux    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      }, {
+        francais: 'amoureux, euse    ',
+        lingala: ' -a bolingo ',
         // tslint:disable-next-line: max-line-length
         exemple:''
       },
