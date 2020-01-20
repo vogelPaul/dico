@@ -4200,16 +4200,767 @@ export class HomePage {
         exemple:''
       },
       {
-        francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
+        francais: 'à-peu-près  ',
+        lingala: ' bopɛmbɛ́ni  ',
         // tslint:disable-next-line: max-line-length
-        exemple:'prendre le whisky comme apéritif : komɛlɛ wisikí bó epésa-nzala        '
+        exemple:' ce sont des à-peu-près: ezalí bopɛmbɛ́ni.'
+      },
+      {
+        francais: 'apeurer    ',
+        lingala: ' vapeurer le gibier',
+        // tslint:disable-next-line: max-line-length
+        exemple:'apeurer le gibier :  kobángisa nyama na bokila.'
+      },
+      {
+        francais: 'aphone    ',
+        lingala: '-a bozángi mongóngó, (e)zángá mongóngó  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'j’ai trop chanté: je suis aphone: nayémbí míngi ; nazángí mongóngó        '
+      },
+      {
+        francais: 'apitoiement   ',
+        lingala: ' mawa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'apitoyer    ',
+        lingala: ' koyókisa mawa, koyóka mawa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' 1) le récit de son malheur m’apitoie: lisolo lya mpási ya yÉe liyókísí ngái mawa, 2)  ne nous apitoyons pas sur son sort : mawa mpo na ye tɛ́.        '
+      },
+      {
+        francais: 'aplanir    ',
+        lingala: '  kolálisa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' 1)aplanir un terrain :  aplanir un terrain. 2)aplanir les difficultés : kosílisa matáta.3) les difficultés se sont aplanies: matáta masílí.     '
+      },
+      {
+        francais: 'aplatir   ',
+        lingala: 'kopatatalusa, kotandola,komítanda',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1)  aplatir un métal : kotandola linzanza. 2) s’aplatir sur le sol: komítanda na mabelé'
+      },
+      {
+        francais: 'apôtre    ',
+        lingala: '  ntómá, apostolo  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1)chacun des disciples choisis par JésusChrist : mokomoko ya baye Yézu-Krístu aponokí mpoya kotéya Sango Elámu'
+      },
+      {
+        francais: 'apôtre    ',
+        lingala: '  ntómá, mobÔ¥ti-tángbá ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' apôtre du marxisme : ntóma ya makisisimɛ.'
+      },
+      {
+        francais: 'apparaître   ',
+        lingala: ' komonono',
+        // tslint:disable-next-line: max-line-length
+        exemple:' un avion apparaît dans le ciel:  mpɛ́po emononí na likoló        '
+      },
+      {
+        francais: 'appareil   ',
+        lingala: ' esálele, apaléyi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'appareil photographique:ekangele foto'
+      },
+      {
+        francais: 'appas   ',
+        lingala: ' bobɛ́mbi, bolɛ́ti, motámbo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'les appas du pouvoir: mpósá ya bokonzi.  '
+      },
+      {
+        francais: 'appât  ',
+        lingala: ' mpambo, lipiká,motámbo  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) fixer l’appât à un hameçon : kotíya mpambo na ndobo. 2) l’appât du gain :mpambo ya mileki.        '
+      },
+      {
+        francais: 'appâter    ',
+        lingala: ' kolɛ́tɛ, kobɛ́mbɛ ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' appâter un poisson, appâter une personne avec la promesse d’un gain : kolɛ́tɛ mbísi, kolɛ́tɛ moto na nzelá ya matabísi.        '
+      },
+      {
+        francais: 'appauvrir    ',
+        lingala: ' kobolisa, kobola  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'appel  ',
+        lingala: '  mbélá, kó ndo, bobyá ngi, bobéngi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) lancer un appel,faire l’appel : kobénga kó ndo '
+      },
+      {
+        francais: 'appeler   ',
+        lingala: ' kobyánga, kobénga  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'appeler un ami : kobyánga moníngá. '
+      },
+      {
+        francais: 'appeler    ',
+        lingala: '  kotíya nkómbó, kobénga ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' appeler son enfant Umba : kotíya nkómbó ya mwÉana Umba'
+      },
+      {
+        francais: 'appeler    ',
+        lingala: ' kobéngama ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' comment t’appelestu? Je m’appelle Umba : nkómbó na yo náni? obéngámá nkómbó náni?        '
+      },
+      {
+        francais: 'appellation    ',
+        lingala: ' nkómbó, ebyángeli, ebengelí  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'appellation injurieuse : ebyángeli ya kotúka, nkómbó ya kotúka. '
+      },
+      {
+        francais: 'appendice   ',
+        lingala: ' nsongɛ́, mosopo        ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' appendice caudal: queue : nsongɛ́ ya mosopo : mokondÔ¡ '
+      },
+      {
+        francais: 'appendicite   ',
+        lingala: 'egilea, apandisíte ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' crise d’appendicite: bokono bwa egilea        '
+      },
+      {
+        francais: 'appesantir  ',
+        lingala: 'kozitola, kokangana na, koléndendala  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' l’âge appesantit sa démarche : bokóló bozitólí etámboli ya ye'
+      },
+      {
+        francais: 'appesantir    ',
+        lingala: ' kozitwa, koléndisa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1)sa démarche s’appesantit :etámboli ya yÉe ezitwé. 2) s’appesantir sur un sujet de conversation :  koléndisa mpo yoko ya lisoló.        '
+      },
+      {
+        francais: 'appétissant, ante     ',
+        lingala: ' -a mpósá, -a nzala  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' un repas appétissant :  biléi bya mpósá'
+      },
+      {
+        francais: 'appétit   ',
+        lingala: 'mpósá, nzala  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'avoir un gros appétit :  koyóka mpósá ekási ya kolíya.'
+      },
+      {
+        francais: 'applaudir   ',
+        lingala: 'kobɛ́tɛ maboko,kobɛ́tɛlɛ maboko, kobɛ́tɛlɛ nsáko,kondima ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) applaudir un danseur : kobɛ́tɛlɛ mobíni maboko, kobɛ́tɛlɛ maboko mpo ya mobíni.2) applaudir à une décision : kondima mokáno.30 applaudissez, mes amis !:bɛ́tɛni (bóbɛ́tɛ) maboko, baníngá ba ngáí. 4) s’applaudir d’une bonne décision : kosepela na mokáno kitoko.        '
+      },
+      {
+        francais: 'applaudissement   ',
+        lingala: ' bobɛ́ti maboko, bobɛ́ti nsáko, bokúmisi, makúmisi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' des applaudissements prolongés :  nsáko elaí, bobɛ́ti maboko eúmélí        '
+      },
+      {
+        francais: 'appliqué, ée    ',
+        lingala: '-a mayɛ́lɛ ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'un élève appliqué: moyékoli wa mayɛ́lɛ.        '
+      },
+      {
+        francais: 'appliquer   ',
+        lingala: '  kotíya, kopakola  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'appliquer de l’huile sur la peau : kopakola mafúta na lomposo'
+      },
+      {
+        francais: 'appliquer ( mettre en pratique )   ',
+        lingala: ' kosálela ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) appliquer une leçon: kosálela litéya'
+      },
+      {
+        francais: 'appliquer ( donner, infliger)  ',
+        lingala: '  kopésa, kobámbola  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'appliquer une gifle : kopésa mbatá '
+      },
+      {
+        francais: 'appliquer (se mettre )    ',
+        lingala: ' kopakolama, kotyáma ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'la crème s’applique sur la peau : mafúta mapakolamaka na lomposo.'
+      },
+      {
+        francais: 'appliquer (convenir, s’adapter   )  ',
+        lingala: '  kolongobana  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'la loi s’applique à cette situation : mobéko molongóbani na ezalela eye. '
+      },
+      {
+        francais: 'appliquer ( mettre toute son attention)     ',
+        lingala: 'komípésa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'s’appliquer à l’étude :  komípésa na boyékoli.        '
+      },
+      {
+        francais: 'appointements  ',
+        lingala: 'lifúta',
+        // tslint:disable-next-line: max-line-length
+        exemple:' percevoir ses appointements : kozwa lifúta lya ye        '
+      },
+      {
+        francais: 'apport   ',
+        lingala: 'lisálisi,lisungi,ligamisi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'donner un apport: kopésa lisálisi, kosálisa, kosunga.'
+      },
+      {
+        francais: 'apporter',
+        lingala: 'koyéla',
+        // tslint:disable-next-line: max-line-length
+        exemple:' apportez-moi de l’eau : bóyéla (yélani) ngáí mái.'
+      },
+      {
+        francais: 'apposer   ',
+        lingala: ' kotíya ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'apposer sa signature sur un document: kotíya loboko (sinyatíli) likoló lya monkandá, kosinyé.        '
+      },
+      {
+        francais: 'apposition   ',
+        lingala: 'botíyi',
+        // tslint:disable-next-line: max-line-length
+        exemple:'apposition d’une signature: botíyi lobÔ¡k¡ (sinyatíli). '
+      },
+      {
+        francais: 'appréciable     ',
+        lingala: '-a malongá, mwâ míngi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une somme d’argent appréciable:  mosolo mwa malongá.        '
+      },
+      {
+        francais: 'appréciation    ',
+        lingala: 'botáli, bilembo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'l’appréciation du professeur sur le travail d’un élève:         '
+      },
+      {
+        francais: 'apprécier    ',
+        lingala: '  koyéba motúya mwa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'apprécier le prix d’un objet:  koyéba motúya mwa eloko.'
+      },
+      {
+        francais: 'apprécier   ',
+        lingala: ' kondima, kokúmisa',
+        // tslint:disable-next-line: max-line-length
+        exemple:'apprécier qqn :  kondima moto, kokúmisa moto. '
+      },
+      {
+        francais: "apprécier (s') ",
+        lingala: ' kondimana, kokúmisana',
+        // tslint:disable-next-line: max-line-length
+        exemple:'deux personnes qui s’apprécient : bato bábalé baye bandimání.'
+      },
+      {
+        francais: 'appréhender   ',
+        lingala: ' kokanga, kobánga ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) appréhender un voleur : kokanga moíbi. 2) appréhender la colère de qqn : kobánga nkándá ya moto.        '
+      },
+      {
+        francais: 'apprenant, ante    ',
+        lingala: 'moyékoli,mwana-kelási ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'apprendre    ',
+        lingala: '  koyékola,koyóka ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) apprendre une langue, une leçon, un métier :ɛ́koyékola lokóta, koyékola litéya, koyékola mosálá. 2) apprendre une nouvelle :  koyóka sango '
       },
       {
         francais: 'amoureux, euse    ',
-        lingala: ' -a bolingo ',
+        lingala: '  koyékwisa, kolakisa, kotéya, kotángisa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) apprendre le métier d’enseignant à qqn :  koyékwísí moto mosálá mwa molakisi. 2) apprendre une nouvelle à qqn : ndé moto oyébísákí ngáí sango yangó.        '
+      },
+      {
+        francais: 'apprenti, ie   ',
+        lingala: ' moyékoli',
+        // tslint:disable-next-line: max-line-length
+        exemple:'apprenti chauffeur: sofɛ́lɛ-moyékoli, boyi-sofɛ́lɛ.'
+      },
+      {
+        francais: 'apprentissage   ',
+        lingala: 'boyékoli ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'apprentissage en atelier: boyékoli na talyé.'
+      },
+      {
+        francais: 'apprêter   ',
+        lingala: ' kolɛ́ngɛlɛ, kobongisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'apprêter le repas :kolɛ́ngɛlɛ biléi'
+      },
+
+      {
+        francais: "apprêter (s')   ",
+        lingala: ' komílɛ́ngɛ, komíbongisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' s’apprêter à partir: komílɛ́ngɛ mpo ya kokɛndɛ.        '
+      },
+      {
+        francais: 'apprivoiser   ',
+        lingala: ' koanda  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'apprivoiser un lion : '
+      },
+      {
+        francais: "apprivoiser (s')  ",
+        lingala: ' komíanda ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' le lion s’est vite apprivoisé :  nkosi emíandí nokí.  '
+      },
+      {
+        francais: 'approbation   ',
+        lingala: ' bondimi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'ce projet a reçu l’approbation de tous: mwángo moye mozwí bondimi bwa bato bánso, mwángo moye mondimámí na bato bánso.'
+      },
+      {
+        francais: 'approche   ',
+        lingala: ' bobɛlɛmi, bopúsani, libɛlɛmi, lipúsani',
+        // tslint:disable-next-line: max-line-length
+        exemple:'l’approche des policiers les voleurs ont pris la fuite:  o bobɛlɛmi bwa bapulúsi baíbi bakímí.         '
+      },
+      {
+        francais: 'approcher   ',
+        lingala: 'kobɛlɛmisa,kopúsa, kobɛlɛmɛ, kopúsana ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1)approcher une chaise de la table : kobɛlɛmisa kíti pɛnɛpɛnɛ na mésá. 2) nous approchons de Brazzaville, de la fin du mois :tobɛlɛ́mí na Brazzaville, tobɛlɛ́mi na súka ya sánzá. '
+      },
+      {
+        francais: 'approfondir   ',
+        lingala: 'koyéisa bozindó,kotongolo  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' approfondir un trou: koyéisa libúlú bozindó. 2) approfondir un sujet : kotongolo likambo'
+      },
+      {
+        francais: "approfondir (s') ",
+        lingala: 'koyâ bozindó, kokóla , kolénda  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) le ravin s’approfondit: libélá liyéi bozindó. 2)  sa foi s’est approfondie : boyambi bwa ye boléndi.        '
+      },
+      {
+        francais: 'approfondissement   ',
+        lingala: ' boléndisi, bokómisi bozindó  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'approfondissement de la foi, d’un ravin: boléndisi boyambi, bokómisi libúlú(libela) bozindó        '
+      },
+      {
+        francais: 'appropriation   ',
+        lingala: ' bobongi, bolongibinyi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'appropriation d’une terre à une culture potagère : bolongibinyi bwa mabelé na milóná'
+      },
+      {
+        francais: 'appropriation  ',
+        lingala: ' bozwi, bokamati, bobotoli ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' l’appropriation d’un terrain: kobotolo bozwi mabelé.        '
+      },
+      {
+        francais: 'approprié, ée   ',
+        lingala: ' -a bolongobani, -a kolongobana  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' trouver le mot approprié: koluka liloba lilongóbání, koluka liloba lya bolongobani, lya kolongobana.        '
+      },
+      {
+        francais: 'approprier   ',
+        lingala: 'kolongibinya',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1)approprier une terre à la culture potagère : kolongibinya mabelé na bilanga bya ndímo'
+      },
+      {
+        francais: "approprier (s')",
+        lingala: ' kobotolo, kozwa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'s’approprier les biens ou les idées d’autrui: kobotolo biloko tô makanisi ma moto mosúsu.        '
+      },
+      {
+        francais: 'approuver   ',
+        lingala: ' kondima  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'approuver un mariage, une décision: kondima libála, kondima mokáno.         '
+      },
+      {
+        francais: 'approvisionnement   ',
+        lingala: 'bopési, biléi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) approvisionnement en eau potable: bopési mái péto. 2)un approvisionnement des denrées alimentaires: bopési biléi, bozwi biléi.        '
+      },
+      {
+        francais: 'approvisionner   ',
+        lingala: ' kopésa,kopésa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1)approvisionner un marché en viande : kopésa nyama na zándo. 2)s’approvisionner au marché:  kosómba na zándo.        '
+      },
+      {
+        francais: 'approximation    ',
+        lingala: ' pɛnɛpɛnɛ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1)prix par approximation: ntálo ya pɛnɛpɛnɛ.        '
+      },
+      {
+        francais: 'appui    ',
+        lingala: 'lisálisi,lisungi,ligamisi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'accordez-moi votre appui: bópesa ngáí lisálisi lya bínó.        '
+      },
+      {
+        francais: 'appuyer    ',
+        lingala: 'koɛ́kɛmisa,koyɛ́kɛmisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'appuyer la tête contre le mur: koɛ́kɛmisa, koyɛ́kɛmisamotó na efelo'
+      },
+      {
+        francais: 'appuyer    ',
+        lingala: ' kofina ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' appuyer sur un bouton :  kofina butó'
+      },
+      {
+        francais: "appuyer (s')   ",
+        lingala: ' koɛ́kɛmɛ, koyɛ́kɛmɛ ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'s’appuyer sur une canne, sur un ami: koyÔ¥k¥m¥ na motóngo, na moníngá.'
+      },
+      {
+        francais: 'âpre    ',
+        lingala: '-a bololo ,makási ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'un fruit âpre : mbuma ya bololo. 2)  une lutte âpre : etumba ya makási.         '
+      },
+      {
+        francais: 'après    ',
+        lingala: ' nsima, mbísa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1)venez après le travail :bóyâ (yákáni) nsima ya mosálá. 2) après la deuxième rue : nsima ya balabála ya íbalé. 3) je viens après vous : nazalí nsima na bínó. 4) deux jours après, deux rues après, deux personnes après : mikolo míbalé (na) nsima, balabála íbalé (na) nsima, bato bábalé (na) nsima.        '
+      },
+      {
+        francais: 'après (d’)   ',
+        lingala: ' mpo na  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' d’aprés moi : mpo na ngáí.        '
+      },
+      {
+        francais: 'après-demain   ',
+        lingala: ' lóbí kúná, ndɛ́lɛ  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'je viendrai après-demain : nakoyâ lóbí kúná.        '
+      },
+      {
+        francais: 'après-midi   ',
+        lingala: 'nsima ya nzánga,nsima ya midí ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'viens cet(te) après-midi: yáká nsima ya nzánga '
+      },
+      {
+        francais: 'âpreté [ ',
+        lingala: '  bololo, bokási  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'âpreté d’un fruit : bololo bwa mbuma. 2) discuter avec âpreté :  koswána makási        '
+      },
+      {
+        francais: 'aptitude   ',
+        lingala: 'ntoki,likokí,ntoki ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'1) des aptitudes pour les mathématiques : nkabo mpo ya mitúya. 2)aptitude pour un métier : likokí mpo ya mosálá.'
+      },
+      {
+        francais: 'aquatique    ',
+        lingala: ' -a mái  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'plante, animal aquatique: mweté mwa mái, nyama ya mái.'
+      },
+      {
+        francais: 'arabe    ',
+        lingala: '-a molábo, molábo  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'peuple, langue arabe ; les Arabes, l’arabe: bato ba ekólo Alabí, lokóta la molábo ; Balábo, molábo.        '
+      },
+      {
+        francais: 'arable   ',
+        lingala: '-a bolóni',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une terre arable: mabelé ma bolóni.        '
+      },
+      {
+        francais: 'arachide    ',
+        lingala: ' mongúba, ngúba, nkalánga',
+        // tslint:disable-next-line: max-line-length
+        exemple:'cultiver, manger les arachides:  kolóna, kolía ngúba         '
+      },
+      {
+        francais: 'araignée   ',
+        lingala: 'limpúlututú, alúlu, ekpɛkɛlɛkpɛkɛ, egbukulugbúlú  ',
         // tslint:disable-next-line: max-line-length
         exemple:''
+      },
+      {
+        francais: 'arbitre   ',
+        lingala: ' mobɛ́ti mpyólóló, abítɛlɛ, mokáti likambo ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'arbitre d’un match de football:  mobɛ́ti mpyólóló wa lisano lya ndembó        '
+      },
+      {
+        francais: 'arboré, ée    ',
+        lingala: '-a nzeté ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une savane arborée: esóbé ya myeté, ya nzeté        '
+      },
+      {
+        francais: 'arborer   ',
+        lingala: ' kotómbola, komonisa ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'arborer un drapeau, un large sourire: kotómbola bɛndɛ́l¥, komonisa bosɛki.        '
+      },
+      {
+        francais: 'arbre    ',
+        lingala: 'mweté, nzeté  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'un arbre fruitier: mweté mwa mbuma        '
+      },
+      {
+        francais: 'arbre (- à palabres)   ',
+        lingala: ' mweté esámbiselo  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'arbrisseau   ',
+        lingala: ' mwâ mweté, mwâ nzeté  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'arbuste   ',
+        lingala: ' mweté mokɛ́, nzeté ekɛ́ ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' le caféier est un arbuste:  mweté mwa káwa ezalí mweté mokɛ́'
+      },
+      {
+        francais: 'arc  ',
+        lingala: ' litimbó, litingbó  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'tirer à l’arc: kobɛ́tɛ litimbó.'
+      },
+      {
+        francais: 'arc-en-ciel   ',
+        lingala: 'monama ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'archaïque    ',
+        lingala: ' -a kala, -a kalakala ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'coutume archaïque: mimɛsɛno mya kala, bizaleli bya kala.        '
+      },
+      {
+        francais: 'archer  ',
+        lingala: 'mobɛ́ti-litimbó, moto wa litimbó  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'architecte   ',
+        lingala: 'motoki-ndáko, moyemi-ndáko  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'architecture   ',
+        lingala: ' ntoki-ndáko  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'archives   ',
+        lingala: ' mikandá mya kala  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'archives nationales: mikandá mya kala mya ekólo.        '
+      },
+      {
+        francais: 'ardemment    ',
+        lingala: ' na makási ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'aimer ardemment: kolinga makási         '
+      },
+      {
+        francais: 'ardent, ente    ',
+        lingala: ' (e) - kozíkisa, -a bozíkisi,(e) -kási  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'un soleil ardent: mói mokozíkisa/mói mwa bozíkisi.2)  un ardent désir de réussir: mpósá ekási ya kolónga        '
+      },
+      {
+        francais: 'ardeur     ',
+        lingala: 'bokási,moléndé,mpíko,lonyánga  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' l’ardeur du soleil: bokási bwa mói . 2) ardeur au travail: moléndé na mosálá.        '
+      },
+      {
+        francais: 'ardoise    ',
+        lingala: 'adwási ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' une ardoise d’écolier: adwási ya moyékoli.        '
+      },
+      {
+        francais: 'ardu, ue   ',
+        lingala: ' -a makási  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'une question ardu:  motúna mokási        '
+      },
+      {
+        francais: 'arête    ',
+        lingala: ' mokúwa, mokalo  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' manger le poisson en faisant attention aux arêtes: kolyâ mbísi na bokébáká mikúwa.        '
+      },
+      {
+        francais: 'argent   ',
+        lingala: 'mosolo, falánga  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'argile    ',
+        lingala: ' lido,libázi, lizombi ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'construire des maisons avec de l’argile rouge : kotonga ndáko na lido litáné.'
+      },
+      {
+        francais: 'argileux, euse    ',
+        lingala: '-a lido,-a libázi,-a liz¡mbi  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' un terrain argileux : lobálá la lido'
+      },
+      {
+        francais: 'argument    ',
+        lingala: 'maloba, ntína  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'donner des arguments solides: kopésa maloba, kopésa ntína.        '
+      },
+      {
+        francais: 'argumenter   ',
+        lingala: 'kolimbola ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'aride     ',
+        lingala: ' -a kokauka, kálákálá , makási',
+        // tslint:disable-next-line: max-line-length
+        exemple:'un chose aride : eleko ya kokauka, eleko ya bokauki. 2) un coeur aride: motéma mokási.        '
+      },
+      {
+        francais: 'aridité   ',
+        lingala: 'bokauki ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' aridité du sol, du coeur: bokauki bwa mabelé, bokauki bwa motéma        '
+      },
+      {
+        francais: 'arithmétique     ',
+        lingala: ' mitúya ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'étudier l’arithmétique:  koyékola mitúya.        '
+      },
+      {
+        francais: 'arme  ',
+        lingala: 'ebuneli, ebundeli  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'arme à feu (fusil):  bondóki        '
+      },
+      {
+        francais: 'arme ( à feu ,fusil)   ',
+        lingala: 'bondóki  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'armée   ',
+        lingala: 'limpingá ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'armée congolaise:  limpingá lya Kongó         '
+      },
+      {
+        francais: 'armer    ',
+        lingala: ' kopésa mandóki  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'armer qqn contre qqn : kopésa moto mandóki mpo nakobuna na moto mosúsu'
+      },
+      {
+        francais: "armer (s')    ",
+        lingala: '  kozwa mandóki',
+        // tslint:disable-next-line: max-line-length
+        exemple:"s’armer de bâton: kozwa língéndá "
+      },
+      {
+        francais: 'armoire     ',
+        lingala: 'lomwále, alomwále  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:' armoire à chaussures: lomwále la bikótó        '
+      },
+      {
+        francais: 'armurier   ',
+        lingala: ' moí-mandokí ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'arnaque   ',
+        lingala: ' bobúbi,polosó,mbale ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'arnaquer   ',
+        lingala: 'kobúba, kokósa  ',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'aromate   ',
+        lingala: ' mpímbo',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'aromatique   ',
+        lingala: ' -a mpímbó ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'herbes aromatiques:  matíti ma mpímbó        '
+      },
+      {
+        francais: 'aromatiser    ',
+        lingala: ' kopímbola',
+        // tslint:disable-next-line: max-line-length
+        exemple:''
+      },
+      {
+        francais: 'arôme    ',
+        lingala: ' nsolo mpímbó ',
+        // tslint:disable-next-line: max-line-length
+        exemple:'l’arôme du café: nsolo mpímbó ya káwa.'
       },
       {
         francais: 'amoureux, euse    ',
